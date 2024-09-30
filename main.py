@@ -4,7 +4,8 @@ import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import firestore, db
 import json
-
+from pdf2image import convert_from_bytes
+from utils import convert_pdf_to_images, process_images_with_gemini
 
 app = FastAPI()
 
@@ -88,7 +89,22 @@ async def process_file(file_name: str):
     if product_in_firebase:
         return product_in_firebase
 
-    file = bucket.get_blob("test.txt")
+    file = bucket.get_blob(file_name)
+    if not file:
+        return {"errror": "File not found in storage"}
+
+    file_content = file.download_as_bytes()
+
+    # Determine file type
+    file_extension = file_name.split('.')[-1].lower()
+
+    # Convert PDF to images if necessary
+    if file_extension == 'pdf':
+        images = convert_pdf_to_images(file_content)
+    else:
+        images = [file_content]  # For non-PDF files, treat as single image
+
+    gemini_output = process_images_with_gemini(images)
     return "...generating from gemini"
 
     # extract from gemini

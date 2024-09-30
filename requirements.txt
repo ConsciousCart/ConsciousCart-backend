@@ -3,3 +3,5 @@ matplotlib==3.9.2
 pandas==2.2.3
 pdf2image==1.17.0
 Pillow==10.4.0
+uvicorn
+gunicorn
