@@ -14,6 +14,7 @@ origins = [
     "http://localhost",
     "http://localhost:8080",
     "http://localhost:3000",
+    # TODO: JAYA ADD THE VERCEL HOST HERE
 ]
 
 app.add_middleware(
@@ -36,6 +37,13 @@ cred = credentials.Certificate("./firebase.json")
 firebase_admin.initialize_app(
     cred, {"databaseURL": "https://consciouscart-16d52-default-rtdb.firebaseio.com/"}
 )
+
+
+
+
+@app.get("/test/gemini-analysis")
+async def get_gemini_output():
+    return json.load(open("gemini-dummy.json", "r"))
 
 
 @app.get("/")
@@ -79,8 +87,10 @@ CHange the schema of what we store in invoices this way:
                      [invoice_output_from_gemini, filename]}]
 
 """
+
+
 def exists_in_firebase(file_name):
-    ref = db.reference("/products") # should be invoices
+    ref = db.reference("/products")  # should be invoices
     products = ref.get()
     if not products:
         return False
@@ -91,9 +101,10 @@ def exists_in_firebase(file_name):
     if products:
         for product in products:
             # should be file_name
-            if product['product_name'] == file_name:
+            if product["product_name"] == file_name:
                 return product
     return False
+
 
 # TODO: Change from products to invoices
 @app.get("/api/process/{file_name}")
@@ -109,14 +120,13 @@ async def process_file(file_name: str):
     return "...generating from gemini"
 
     # extract from gemini
-        # get the file from the bucket with the file_name using google cloud
-        # send the file contents to gemini prompt
-        # get the response and store it in firebase .set() !! WITHOUT OVERRIDING
-        # THE EXISING
-        # send the response as the output of gemini
+    # get the file from the bucket with the file_name using google cloud
+    # send the file contents to gemini prompt
+    # get the response and store it in firebase .set() !! WITHOUT OVERRIDING
+    # THE EXISING
+    # send the response as the output of gemini
 
     # store in firebase invoices
-
 
     ## Then we call the gemini api
     ## step 1:  WE get an output from gemini, store it in firebase

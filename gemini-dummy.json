@@ -1,0 +1,1009 @@
+[
+  {
+    "product_name": "Too Yumm - Naagin Sauce - Smoking Hot Bhoot Chips",
+    "price_paid": 19.0,
+    "num_items": 1,
+    "estimated_quantity": {
+      "value": 1,
+      "unit": "packet"
+    },
+    "serving_size": "As per package instructions",
+    "energy": {
+      "per_serving": {
+        "value": null,
+        "unit": "kcal"
+      }
+    },
+    "macronutrients": {
+      "total_fat": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      },
+      "carbohydrates": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      },
+      "protein": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      }
+    },
+    "micronutrients": {
+      "sodium": {
+        "per_serving": {
+          "value": null,
+          "unit": "mg"
+        }
+      },
+      "key_vitamins_minerals": []
+    },
+    "fiber": {
+      "total": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      },
+      "soluble": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      },
+      "insoluble": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      }
+    },
+    "allergens": [
+      "Soy",
+      "Wheat",
+      "Gluten",
+      "Milk",
+      "Peanuts",
+      "Tree Nuts",
+      "Mustard",
+      "Sesame Seeds"
+    ],
+    "nutrient_density_score": null,
+    "glycemic_index": null,
+    "glycemic_load": null,
+    "protein_quality": {
+      "score": null,
+      "method": null
+    },
+    "phytonutrients": [],
+    "micronutrient_density": {
+      "per_100_calories": [],
+      "per_100_grams": []
+    },
+    "satiety_index": null,
+    "environmental_impact": {
+      "water_usage": {
+        "value": null,
+        "unit": "L/kg"
+      },
+      "carbon_footprint": {
+        "value": null,
+        "unit": "kg CO2e/kg"
+      },
+      "land_use": {
+        "value": null,
+        "unit": "m²/kg"
+      }
+    },
+    "versatility_score": null,
+    "cost_nutrient_ratio": null,
+    "nutritional_summary": "This snack is high in calories and may contain allergens like soy, wheat, gluten, milk, peanuts, tree nuts, mustard, and sesame seeds."
+  },
+  {
+    "product_name": "All Out Ultra Mosquito Repellent Liquid Vaporizer Machine 2 Refills",
+    "price_paid": 160.2,
+    "num_items": 1,
+    "estimated_quantity": {
+      "value": 2,
+      "unit": "refills"
+    },
+    "serving_size": null,
+    "energy": {
+      "per_serving": {
+        "value": null,
+        "unit": "kcal"
+      }
+    },
+    "macronutrients": {
+      "total_fat": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      },
+      "carbohydrates": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      },
+      "protein": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      }
+    },
+    "micronutrients": {
+      "sodium": {
+        "per_serving": {
+          "value": null,
+          "unit": "mg"
+        }
+      },
+      "key_vitamins_minerals": []
+    },
+    "fiber": {
+      "total": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      },
+      "soluble": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      },
+      "insoluble": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      }
+    },
+    "allergens": [],
+    "nutrient_density_score": null,
+    "glycemic_index": null,
+    "glycemic_load": null,
+    "protein_quality": {
+      "score": null,
+      "method": null
+    },
+    "phytonutrients": [],
+    "micronutrient_density": {
+      "per_100_calories": [],
+      "per_100_grams": []
+    },
+    "satiety_index": null,
+    "environmental_impact": {
+      "water_usage": {
+        "value": null,
+        "unit": "L/kg"
+      },
+      "carbon_footprint": {
+        "value": null,
+        "unit": "kg CO2e/kg"
+      },
+      "land_use": {
+        "value": null,
+        "unit": "m²/kg"
+      }
+    },
+    "versatility_score": null,
+    "cost_nutrient_ratio": null,
+    "nutritional_summary": "This product is not edible."
+  },
+  {
+    "product_name": "Town Grocer Kashmiri Rajma",
+    "price_paid": 105.0,
+    "num_items": 1,
+    "estimated_quantity": {
+      "value": 500,
+      "unit": "g"
+    },
+    "serving_size": "1/2 cup cooked",
+    "energy": {
+      "per_serving": {
+        "value": null,
+        "unit": "kcal"
+      }
+    },
+    "macronutrients": {
+      "total_fat": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      },
+      "carbohydrates": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      },
+      "protein": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      }
+    },
+    "micronutrients": {
+      "sodium": {
+        "per_serving": {
+          "value": null,
+          "unit": "mg"
+        }
+      },
+      "key_vitamins_minerals": [
+        {
+          "name": "Iron",
+          "value": null,
+          "unit": "mg"
+        },
+        {
+          "name": "Fiber",
+          "value": null,
+          "unit": "g"
+        },
+        {
+          "name": "Folate",
+          "value": null,
+          "unit": "mcg"
+        },
+        {
+          "name": "Magnesium",
+          "value": null,
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": null,
+          "unit": "mg"
+        }
+      ]
+    },
+    "fiber": {
+      "total": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      },
+      "soluble": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      },
+      "insoluble": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      }
+    },
+    "allergens": [],
+    "nutrient_density_score": null,
+    "glycemic_index": null,
+    "glycemic_load": null,
+    "protein_quality": {
+      "score": null,
+      "method": null
+    },
+    "phytonutrients": [
+      {
+        "name": "Polyphenols",
+        "presence": "medium"
+      },
+      {
+        "name": "Antioxidants",
+        "presence": "medium"
+      }
+    ],
+    "micronutrient_density": {
+      "per_100_calories": [],
+      "per_100_grams": []
+    },
+    "satiety_index": null,
+    "environmental_impact": {
+      "water_usage": {
+        "value": null,
+        "unit": "L/kg"
+      },
+      "carbon_footprint": {
+        "value": null,
+        "unit": "kg CO2e/kg"
+      },
+      "land_use": {
+        "value": null,
+        "unit": "m²/kg"
+      }
+    },
+    "versatility_score": null,
+    "cost_nutrient_ratio": null,
+    "nutritional_summary": "Rajma, or kidney beans, are a great source of protein, fiber, iron, folate, magnesium, and potassium. They have a low glycemic index and load, making them a healthy choice for blood sugar control. They are also rich in antioxidants and polyphenols, which offer various health benefits."
+  },
+  {
+    "product_name": "Skippi Ice Pops Natural 3 Flavours Pink Guava Pineapple Lemon Carton",
+    "price_paid": 114.0,
+    "num_items": 1,
+    "estimated_quantity": {
+      "value": 1,
+      "unit": "carton"
+    },
+    "serving_size": "As per package instructions",
+    "energy": {
+      "per_serving": {
+        "value": null,
+        "unit": "kcal"
+      }
+    },
+    "macronutrients": {
+      "total_fat": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      },
+      "carbohydrates": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      },
+      "protein": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      }
+    },
+    "micronutrients": {
+      "sodium": {
+        "per_serving": {
+          "value": null,
+          "unit": "mg"
+        }
+      },
+      "key_vitamins_minerals": []
+    },
+    "fiber": {
+      "total": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      },
+      "soluble": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      },
+      "insoluble": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      }
+    },
+    "allergens": [],
+    "nutrient_density_score": null,
+    "glycemic_index": null,
+    "glycemic_load": null,
+    "protein_quality": {
+      "score": null,
+      "method": null
+    },
+    "phytonutrients": [],
+    "micronutrient_density": {
+      "per_100_calories": [],
+      "per_100_grams": []
+    },
+    "satiety_index": null,
+    "environmental_impact": {
+      "water_usage": {
+        "value": null,
+        "unit": "L/kg"
+      },
+      "carbon_footprint": {
+        "value": null,
+        "unit": "kg CO2e/kg"
+      },
+      "land_use": {
+        "value": null,
+        "unit": "m²/kg"
+      }
+    },
+    "versatility_score": null,
+    "cost_nutrient_ratio": null,
+    "nutritional_summary": "This product is a processed food item and may be high in sugar and calories."
+  },
+  {
+    "product_name": "Dr Good Eggs Premium Fresh 6 Pc [Part Of Combo]",
+    "price_paid": 97.0,
+    "num_items": 2,
+    "estimated_quantity": {
+      "value": 12,
+      "unit": "pcs"
+    },
+    "serving_size": "1 egg",
+    "energy": {
+      "per_serving": {
+        "value": 78,
+        "unit": "kcal"
+      }
+    },
+    "macronutrients": {
+      "total_fat": {
+        "per_serving": {
+          "value": 5.3,
+          "unit": "g"
+        }
+      },
+      "carbohydrates": {
+        "per_serving": {
+          "value": 0.6,
+          "unit": "g"
+        }
+      },
+      "protein": {
+        "per_serving": {
+          "value": 6.3,
+          "unit": "g"
+        }
+      }
+    },
+    "micronutrients": {
+      "sodium": {
+        "per_serving": {
+          "value": 62,
+          "unit": "mg"
+        }
+      },
+      "key_vitamins_minerals": [
+        {
+          "name": "Vitamin A",
+          "value": 100,
+          "unit": "IU"
+        },
+        {
+          "name": "Vitamin B12",
+          "value": 0.6,
+          "unit": "mcg"
+        },
+        {
+          "name": "Vitamin D",
+          "value": 44,
+          "unit": "IU"
+        },
+        {
+          "name": "Choline",
+          "value": 147,
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": 1,
+          "unit": "mg"
+        },
+        {
+          "name": "Calcium",
+          "value": 30,
+          "unit": "mg"
+        },
+        {
+          "name": "Phosphorus",
+          "value": 95,
+          "unit": "mg"
+        }
+      ]
+    },
+    "fiber": {
+      "total": {
+        "per_serving": {
+          "value": 0,
+          "unit": "g"
+        }
+      },
+      "soluble": {
+        "per_serving": {
+          "value": 0,
+          "unit": "g"
+        }
+      },
+      "insoluble": {
+        "per_serving": {
+          "value": 0,
+          "unit": "g"
+        }
+      }
+    },
+    "allergens": [],
+    "nutrient_density_score": null,
+    "glycemic_index": null,
+    "glycemic_load": null,
+    "protein_quality": {
+      "score": 100,
+      "method": "PDCAAS"
+    },
+    "phytonutrients": [
+      {
+        "name": "Choline",
+        "presence": "high"
+      }
+    ],
+    "micronutrient_density": {
+      "per_100_calories": [
+        {
+          "nutrient": "Vitamin B12",
+          "value": 0.77,
+          "unit": "mcg"
+        },
+        {
+          "nutrient": "Choline",
+          "value": 188,
+          "unit": "mg"
+        }
+      ],
+      "per_100_grams": [
+        {
+          "nutrient": "Vitamin B12",
+          "value": 0.97,
+          "unit": "mcg"
+        },
+        {
+          "nutrient": "Choline",
+          "value": 188,
+          "unit": "mg"
+        }
+      ]
+    },
+    "satiety_index": 150,
+    "environmental_impact": {
+      "water_usage": {
+        "value": 150,
+        "unit": "L/kg"
+      },
+      "carbon_footprint": {
+        "value": 4.5,
+        "unit": "kg CO2e/kg"
+      },
+      "land_use": {
+        "value": 1.3,
+        "unit": "m²/kg"
+      }
+    },
+    "versatility_score": 10,
+    "cost_nutrient_ratio": null,
+    "nutritional_summary": "Eggs are a great source of high-quality protein, choline, and various essential vitamins and minerals. They are versatile and can be enjoyed in many ways. However, it is important to consider the environmental impact of egg production, including water usage, carbon footprint, and land use."
+  },
+  {
+    "product_name": "Robusta Banana (Arati Pandlu) [Part Of Combo]",
+    "price_paid": 61.01,
+    "num_items": 2,
+    "estimated_quantity": {
+      "value": 2,
+      "unit": "kg"
+    },
+    "serving_size": "1 medium banana",
+    "energy": {
+      "per_serving": {
+        "value": 105,
+        "unit": "kcal"
+      }
+    },
+    "macronutrients": {
+      "total_fat": {
+        "per_serving": {
+          "value": 0.3,
+          "unit": "g"
+        }
+      },
+      "carbohydrates": {
+        "per_serving": {
+          "value": 27,
+          "unit": "g"
+        }
+      },
+      "protein": {
+        "per_serving": {
+          "value": 1.1,
+          "unit": "g"
+        }
+      }
+    },
+    "micronutrients": {
+      "sodium": {
+        "per_serving": {
+          "value": 1,
+          "unit": "mg"
+        }
+      },
+      "key_vitamins_minerals": [
+        {
+          "name": "Vitamin B6",
+          "value": 0.4,
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin C",
+          "value": 10,
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": 422,
+          "unit": "mg"
+        },
+        {
+          "name": "Manganese",
+          "value": 0.3,
+          "unit": "mg"
+        }
+      ]
+    },
+    "fiber": {
+      "total": {
+        "per_serving": {
+          "value": 3.1,
+          "unit": "g"
+        }
+      },
+      "soluble": {
+        "per_serving": {
+          "value": 1.5,
+          "unit": "g"
+        }
+      },
+      "insoluble": {
+        "per_serving": {
+          "value": 1.6,
+          "unit": "g"
+        }
+      }
+    },
+    "allergens": [],
+    "nutrient_density_score": null,
+    "glycemic_index": 50,
+    "glycemic_load": 13.5,
+    "protein_quality": {
+      "score": null,
+      "method": null
+    },
+    "phytonutrients": [
+      {
+        "name": "Antioxidants",
+        "presence": "high"
+      },
+      {
+        "name": "Polyphenols",
+        "presence": "medium"
+      }
+    ],
+    "micronutrient_density": {
+      "per_100_calories": [
+        {
+          "nutrient": "Vitamin B6",
+          "value": 0.38,
+          "unit": "mg"
+        },
+        {
+          "nutrient": "Vitamin C",
+          "value": 9.5,
+          "unit": "mg"
+        },
+        {
+          "nutrient": "Potassium",
+          "value": 402,
+          "unit": "mg"
+        }
+      ],
+      "per_100_grams": [
+        {
+          "nutrient": "Vitamin B6",
+          "value": 0.37,
+          "unit": "mg"
+        },
+        {
+          "nutrient": "Vitamin C",
+          "value": 8.9,
+          "unit": "mg"
+        },
+        {
+          "nutrient": "Potassium",
+          "value": 398,
+          "unit": "mg"
+        }
+      ]
+    },
+    "satiety_index": 60,
+    "environmental_impact": {
+      "water_usage": {
+        "value": 74,
+        "unit": "L/kg"
+      },
+      "carbon_footprint": {
+        "value": 0.4,
+        "unit": "kg CO2e/kg"
+      },
+      "land_use": {
+        "value": 0.4,
+        "unit": "m²/kg"
+      }
+    },
+    "versatility_score": 8,
+    "cost_nutrient_ratio": null,
+    "nutritional_summary": "Bananas are a good source of potassium, fiber, and vitamin B6. They are also rich in antioxidants and have a low glycemic index, making them a healthy choice for blood sugar control. However, banana production can have a significant environmental impact, particularly in terms of water usage and land use."
+  },
+  {
+    "product_name": "Basic Kala Chana",
+    "price_paid": 89.0,
+    "num_items": 1,
+    "estimated_quantity": {
+      "value": 500,
+      "unit": "g"
+    },
+    "serving_size": "1/2 cup cooked",
+    "energy": {
+      "per_serving": {
+        "value": null,
+        "unit": "kcal"
+      }
+    },
+    "macronutrients": {
+      "total_fat": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      },
+      "carbohydrates": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      },
+      "protein": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      }
+    },
+    "micronutrients": {
+      "sodium": {
+        "per_serving": {
+          "value": null,
+          "unit": "mg"
+        }
+      },
+      "key_vitamins_minerals": [
+        {
+          "name": "Iron",
+          "value": null,
+          "unit": "mg"
+        },
+        {
+          "name": "Fiber",
+          "value": null,
+          "unit": "g"
+        },
+        {
+          "name": "Folate",
+          "value": null,
+          "unit": "mcg"
+        },
+        {
+          "name": "Magnesium",
+          "value": null,
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": null,
+          "unit": "mg"
+        }
+      ]
+    },
+    "fiber": {
+      "total": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      },
+      "soluble": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      },
+      "insoluble": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      }
+    },
+    "allergens": [],
+    "nutrient_density_score": null,
+    "glycemic_index": null,
+    "glycemic_load": null,
+    "protein_quality": {
+      "score": null,
+      "method": null
+    },
+    "phytonutrients": [
+      {
+        "name": "Polyphenols",
+        "presence": "medium"
+      },
+      {
+        "name": "Antioxidants",
+        "presence": "medium"
+      }
+    ],
+    "micronutrient_density": {
+      "per_100_calories": [],
+      "per_100_grams": []
+    },
+    "satiety_index": null,
+    "environmental_impact": {
+      "water_usage": {
+        "value": null,
+        "unit": "L/kg"
+      },
+      "carbon_footprint": {
+        "value": null,
+        "unit": "kg CO2e/kg"
+      },
+      "land_use": {
+        "value": null,
+        "unit": "m²/kg"
+      }
+    },
+    "versatility_score": null,
+    "cost_nutrient_ratio": null,
+    "nutritional_summary": "Kala chana, or black chickpeas, are a nutrient-rich legume packed with protein, fiber, iron, folate, magnesium, and potassium. They have a low glycemic index and load, making them a healthy choice for blood sugar control. They are also rich in antioxidants and polyphenols, offering various health benefits."
+  },
+  {
+    "product_name": "Kitchen Gems Rajma Standard",
+    "price_paid": 159.0,
+    "num_items": 1,
+    "estimated_quantity": {
+      "value": 500,
+      "unit": "g"
+    },
+    "serving_size": "1/2 cup cooked",
+    "energy": {
+      "per_serving": {
+        "value": null,
+        "unit": "kcal"
+      }
+    },
+    "macronutrients": {
+      "total_fat": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      },
+      "carbohydrates": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      },
+      "protein": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      }
+    },
+    "micronutrients": {
+      "sodium": {
+        "per_serving": {
+          "value": null,
+          "unit": "mg"
+        }
+      },
+      "key_vitamins_minerals": [
+        {
+          "name": "Iron",
+          "value": null,
+          "unit": "mg"
+        },
+        {
+          "name": "Fiber",
+          "value": null,
+          "unit": "g"
+        },
+        {
+          "name": "Folate",
+          "value": null,
+          "unit": "mcg"
+        },
+        {
+          "name": "Magnesium",
+          "value": null,
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": null,
+          "unit": "mg"
+        }
+      ]
+    },
+    "fiber": {
+      "total": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      },
+      "soluble": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      },
+      "insoluble": {
+        "per_serving": {
+          "value": null,
+          "unit": "g"
+        }
+      }
+    },
+    "allergens": [],
+    "nutrient_density_score": null,
+    "glycemic_index": null,
+    "glycemic_load": null,
+    "protein_quality": {
+      "score": null,
+      "method": null
+    },
+    "phytonutrients": [
+      {
+        "name": "Polyphenols",
+        "presence": "medium"
+      },
+      {
+        "name": "Antioxidants",
+        "presence": "medium"
+      }
+    ],
+    "micronutrient_density": {
+      "per_100_calories": [],
+      "per_100_grams": []
+    },
+    "satiety_index": null,
+    "environmental_impact": {
+      "water_usage": {
+        "value": null,
+        "unit": "L/kg"
+      },
+      "carbon_footprint": {
+        "value": null,
+        "unit": "kg CO2e/kg"
+      },
+      "land_use": {
+        "value": null,
+        "unit": "m²/kg"
+      }
+    },
+    "versatility_score": null,
+    "cost_nutrient_ratio": null,
+    "nutritional_summary": "Rajma, or kidney beans, are a great source of protein, fiber, iron, folate, magnesium, and potassium. They have a low glycemic index and load, making them a healthy choice for blood sugar control. They are also rich in antioxidants and polyphenols, offering various health benefits."
+  }
+]
