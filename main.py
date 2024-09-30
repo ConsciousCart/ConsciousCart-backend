@@ -3,10 +3,27 @@ from google.cloud import storage
 import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import firestore, db
+from fastapi.middleware.cors import CORSMiddleware
 import json
 
-
 app = FastAPI()
+
+origins = [
+    "http://localhost.tiangolo.com",
+    "https://localhost.tiangolo.com",
+    "http://localhost",
+    "http://localhost:8080",
+    "http://localhost:3000",
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 
 bucket_name = "invoices-from-user"
 key_file_path = "./service-account.json"
