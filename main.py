@@ -64,19 +64,19 @@ CHange the schema of what we store in invoices this way:
 
 """
 def exists_in_firebase(file_name):
-    ref = db.reference("/products") # should be invoices
-    products = ref.get()
-    if not products:
+    ref = db.reference("/invoices") # should be invoices
+    invoices = ref.get()
+    if not invoices:
         return False
-    products = products.strip("```json")
-    products = products.strip("```")
-    products = json.loads(products)
+    invoices = invoices.strip("```json")
+    invoices = invoices.strip("```")
+    invoices = json.loads(invoices)
 
-    if products:
-        for product in products:
+    if invoices:
+        for invoice in invoices:
             # should be file_name
-            if product['product_name'] == file_name:
-                return product
+            if invoice['product_name'] == file_name:
+                return invoice
     return False
 
 # TODO: Change from products to invoices
@@ -105,7 +105,19 @@ async def process_file(file_name: str):
         images = [file_content]  # For non-PDF files, treat as single image
 
     gemini_output = process_images_with_gemini(images)
-    return "...generating from gemini"
+
+    # Prepare the data to store in Firebase
+    firebase_data = {
+        "invoices": gemini_output,
+        "file_name": file_name
+    }
+
+    # Store the processed data in Firebase
+    ref = db.reference("/invoices")
+    ref.child(file_name.replace('.', '_')).set(firebase_data)
+
+    return firebase_data
+
 
     # extract from gemini
         # get the file from the bucket with the file_name using google cloud
