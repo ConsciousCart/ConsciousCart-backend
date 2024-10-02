@@ -14,7 +14,7 @@ origins = [
     "http://localhost",
     "http://localhost:8080",
     "http://localhost:3000",
-    "https://hackathon-project-frontend.vercel.app/"
+    "https://hackathon-project-frontend.vercel.app"
 ]
 
 app.add_middleware(
