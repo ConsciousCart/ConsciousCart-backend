@@ -29,7 +29,7 @@ def process_pdf_folder(input_folder, output_folder, dpi=300):
         convert_pdf_to_images(pdf_path, output_folder, dpi)
 
 # Example usage
-input_folder = '/home/manasa/Desktop/Code/hackathon/Apr 24'
-output_folder = '/home/manasa/Desktop/Code/hackathon/pdf_images/'
+input_folder = '/home/manasa/Desktop/Code/hackathon/Jun 24'
+output_folder = '/home/manasa/Desktop/Code/hackathon/pdf_images/June'
 
 process_pdf_folder(input_folder, output_folder)

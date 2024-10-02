@@ -1,0 +1,1342 @@
+{
+  "products": [
+    {
+      "product_name": "Uncle Chips Spicy Treat Sampaan",
+      "price_paid": 44.64,
+      "num_items": 1,
+      "estimated_quantity": {
+        "value": 150,
+        "unit": "g"
+      },
+      "serving_size": "28g",
+      "energy": {
+        "per_serving": {
+          "value": 150,
+          "unit": "kcal"
+        }
+      },
+      "macronutrients": {
+        "total_fat": {
+          "per_serving": {
+            "value": 10,
+            "unit": "g"
+          }
+        },
+        "carbohydrates": {
+          "per_serving": {
+            "value": 18,
+            "unit": "g"
+          }
+        },
+        "protein": {
+          "per_serving": {
+            "value": 2,
+            "unit": "g"
+          }
+        }
+      },
+      "micronutrients": {
+        "sodium": {
+          "per_serving": {
+            "value": 150,
+            "unit": "mg"
+          }
+        },
+        "key_vitamins_minerals": [
+          {
+            "name": "Vitamin C",
+            "value": 0,
+            "unit": "mg"
+          },
+          {
+            "name": "Iron",
+            "value": 1,
+            "unit": "mg"
+          }
+        ]
+      },
+      "fiber": {
+        "total": {
+          "per_serving": {
+            "value": 1,
+            "unit": "g"
+          }
+        },
+        "soluble": {
+          "per_serving": {
+            "value": 0.5,
+            "unit": "g"
+          }
+        },
+        "insoluble": {
+          "per_serving": {
+            "value": 0.5,
+            "unit": "g"
+          }
+        }
+      },
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "nutrient_density_score": {
+        "value": 25,
+        "category": "Very Low"
+      },
+      "glycemic_index": {
+        "value": 70,
+        "category": "High"
+      },
+      "glycemic_load": 13,
+      "protein_quality": {
+        "score": 0.5,
+        "method": "PDCAAS/DIAAS"
+      },
+      "phytonutrients": [
+        {
+          "name": "Antioxidants",
+          "presence": "medium"
+        }
+      ],
+      "micronutrient_density": {
+        "per_100_calories": [
+          {
+            "nutrient": "Iron",
+            "value": 0.7,
+            "unit": "mg"
+          },
+          {
+            "nutrient": "Sodium",
+            "value": 100,
+            "unit": "mg"
+          }
+        ],
+        "per_100_grams": [
+          {
+            "nutrient": "Iron",
+            "value": 0.7,
+            "unit": "mg"
+          },
+          {
+            "nutrient": "Sodium",
+            "value": 100,
+            "unit": "mg"
+          }
+        ]
+      },
+      "satiety_index": {
+        "value": 25,
+        "category": "Low"
+      },
+      "environmental_impact": {
+        "water_usage": {
+          "value": 1000,
+          "unit": "L/kg"
+        },
+        "carbon_footprint": {
+          "value": 2,
+          "unit": "kg CO2e/kg",
+          "category": "Low"
+        },
+        "land_use": {
+          "value": 0.1,
+          "unit": "m\u00b2/kg"
+        }
+      },
+      "versatility_score": {
+        "value": 25,
+        "category": "Low"
+      },
+      "cost_nutrient_ratio": {
+        "value": 20,
+        "category": "Fair"
+      },
+      "nutritional_summary": "This snack is high in carbohydrates and sodium, but low in protein, vitamins, and minerals. It also has a moderate glycemic index, meaning it can lead to a rapid increase in blood sugar levels."
+    },
+    {
+      "product_name": "Tata Sampan Harvest - Aahar Dal",
+      "price_paid": 26.19,
+      "num_items": 1,
+      "estimated_quantity": {
+        "value": 500,
+        "unit": "g"
+      },
+      "serving_size": "50g",
+      "energy": {
+        "per_serving": {
+          "value": 150,
+          "unit": "kcal"
+        }
+      },
+      "macronutrients": {
+        "total_fat": {
+          "per_serving": {
+            "value": 1,
+            "unit": "g"
+          }
+        },
+        "carbohydrates": {
+          "per_serving": {
+            "value": 25,
+            "unit": "g"
+          }
+        },
+        "protein": {
+          "per_serving": {
+            "value": 5,
+            "unit": "g"
+          }
+        }
+      },
+      "micronutrients": {
+        "sodium": {
+          "per_serving": {
+            "value": 10,
+            "unit": "mg"
+          }
+        },
+        "key_vitamins_minerals": [
+          {
+            "name": "Iron",
+            "value": 1,
+            "unit": "mg"
+          },
+          {
+            "name": "Folate",
+            "value": 50,
+            "unit": "mcg"
+          }
+        ]
+      },
+      "fiber": {
+        "total": {
+          "per_serving": {
+            "value": 5,
+            "unit": "g"
+          }
+        },
+        "soluble": {
+          "per_serving": {
+            "value": 2,
+            "unit": "g"
+          }
+        },
+        "insoluble": {
+          "per_serving": {
+            "value": 3,
+            "unit": "g"
+          }
+        }
+      },
+      "allergens": [
+        "Gluten"
+      ],
+      "nutrient_density_score": {
+        "value": 60,
+        "category": "Medium"
+      },
+      "glycemic_index": {
+        "value": 30,
+        "category": "Low"
+      },
+      "glycemic_load": 4,
+      "protein_quality": {
+        "score": 0.8,
+        "method": "PDCAAS/DIAAS"
+      },
+      "phytonutrients": [
+        {
+          "name": "Fiber",
+          "presence": "high"
+        },
+        {
+          "name": "Antioxidants",
+          "presence": "medium"
+        }
+      ],
+      "micronutrient_density": {
+        "per_100_calories": [
+          {
+            "nutrient": "Iron",
+            "value": 0.7,
+            "unit": "mg"
+          },
+          {
+            "nutrient": "Folate",
+            "value": 33,
+            "unit": "mcg"
+          }
+        ],
+        "per_100_grams": [
+          {
+            "nutrient": "Iron",
+            "value": 2,
+            "unit": "mg"
+          },
+          {
+            "nutrient": "Folate",
+            "value": 100,
+            "unit": "mcg"
+          }
+        ]
+      },
+      "satiety_index": {
+        "value": 50,
+        "category": "Medium"
+      },
+      "environmental_impact": {
+        "water_usage": {
+          "value": 1500,
+          "unit": "L/kg"
+        },
+        "carbon_footprint": {
+          "value": 1,
+          "unit": "kg CO2e/kg",
+          "category": "Low"
+        },
+        "land_use": {
+          "value": 0.2,
+          "unit": "m\u00b2/kg"
+        }
+      },
+      "versatility_score": {
+        "value": 75,
+        "category": "High"
+      },
+      "cost_nutrient_ratio": {
+        "value": 70,
+        "category": "Good"
+      },
+      "nutritional_summary": "This lentil-based product is a good source of protein, fiber, and folate. It is also relatively low in fat and sodium, making it a healthy choice for a meal. It is versatile and can be used in various dishes."
+    },
+    {
+      "product_name": "Dove Soft & Silky  Colgate Slim Soft  Toothbrush",
+      "price_paid": 52.54,
+      "num_items": 1,
+      "estimated_quantity": {
+        "value": null,
+        "unit": null
+      },
+      "serving_size": null,
+      "energy": {
+        "per_serving": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "macronutrients": {
+        "total_fat": {
+          "per_serving": {
+            "value": null,
+            "unit": null
+          }
+        },
+        "carbohydrates": {
+          "per_serving": {
+            "value": null,
+            "unit": null
+          }
+        },
+        "protein": {
+          "per_serving": {
+            "value": null,
+            "unit": null
+          }
+        }
+      },
+      "micronutrients": {
+        "sodium": {
+          "per_serving": {
+            "value": null,
+            "unit": null
+          }
+        },
+        "key_vitamins_minerals": []
+      },
+      "fiber": {
+        "total": {
+          "per_serving": {
+            "value": null,
+            "unit": null
+          }
+        },
+        "soluble": {
+          "per_serving": {
+            "value": null,
+            "unit": null
+          }
+        },
+        "insoluble": {
+          "per_serving": {
+            "value": null,
+            "unit": null
+          }
+        }
+      },
+      "allergens": [],
+      "nutrient_density_score": {
+        "value": null,
+        "category": null
+      },
+      "glycemic_index": {
+        "value": null,
+        "category": null
+      },
+      "glycemic_load": null,
+      "protein_quality": {
+        "score": null,
+        "method": null
+      },
+      "phytonutrients": [],
+      "micronutrient_density": {
+        "per_100_calories": [],
+        "per_100_grams": []
+      },
+      "satiety_index": {
+        "value": null,
+        "category": null
+      },
+      "environmental_impact": {
+        "water_usage": {
+          "value": null,
+          "unit": null
+        },
+        "carbon_footprint": {
+          "value": null,
+          "unit": null,
+          "category": null
+        },
+        "land_use": {
+          "value": null,
+          "unit": null
+        }
+      },
+      "versatility_score": {
+        "value": null,
+        "category": null
+      },
+      "cost_nutrient_ratio": {
+        "value": null,
+        "category": null
+      },
+      "nutritional_summary": null
+    },
+    {
+      "product_name": "Nestle Munch Choco -  Munch  Milk Chocolate",
+      "price_paid": 16.95,
+      "num_items": 2,
+      "estimated_quantity": {
+        "value": 100,
+        "unit": "g"
+      },
+      "serving_size": "25g",
+      "energy": {
+        "per_serving": {
+          "value": 150,
+          "unit": "kcal"
+        }
+      },
+      "macronutrients": {
+        "total_fat": {
+          "per_serving": {
+            "value": 9,
+            "unit": "g"
+          }
+        },
+        "carbohydrates": {
+          "per_serving": {
+            "value": 18,
+            "unit": "g"
+          }
+        },
+        "protein": {
+          "per_serving": {
+            "value": 1,
+            "unit": "g"
+          }
+        }
+      },
+      "micronutrients": {
+        "sodium": {
+          "per_serving": {
+            "value": 50,
+            "unit": "mg"
+          }
+        },
+        "key_vitamins_minerals": [
+          {
+            "name": "Vitamin B12",
+            "value": 0.1,
+            "unit": "mcg"
+          }
+        ]
+      },
+      "fiber": {
+        "total": {
+          "per_serving": {
+            "value": 1,
+            "unit": "g"
+          }
+        },
+        "soluble": {
+          "per_serving": {
+            "value": 0.5,
+            "unit": "g"
+          }
+        },
+        "insoluble": {
+          "per_serving": {
+            "value": 0.5,
+            "unit": "g"
+          }
+        }
+      },
+      "allergens": [
+        "Dairy",
+        "Soy"
+      ],
+      "nutrient_density_score": {
+        "value": 20,
+        "category": "Very Low"
+      },
+      "glycemic_index": {
+        "value": 70,
+        "category": "High"
+      },
+      "glycemic_load": 10,
+      "protein_quality": {
+        "score": 0.5,
+        "method": "PDCAAS/DIAAS"
+      },
+      "phytonutrients": [
+        {
+          "name": "Antioxidants",
+          "presence": "low"
+        }
+      ],
+      "micronutrient_density": {
+        "per_100_calories": [
+          {
+            "nutrient": "Sodium",
+            "value": 33,
+            "unit": "mg"
+          },
+          {
+            "nutrient": "Vitamin B12",
+            "value": 0.1,
+            "unit": "mcg"
+          }
+        ],
+        "per_100_grams": [
+          {
+            "nutrient": "Sodium",
+            "value": 50,
+            "unit": "mg"
+          },
+          {
+            "nutrient": "Vitamin B12",
+            "value": 0.1,
+            "unit": "mcg"
+          }
+        ]
+      },
+      "satiety_index": {
+        "value": 25,
+        "category": "Low"
+      },
+      "environmental_impact": {
+        "water_usage": {
+          "value": 1000,
+          "unit": "L/kg"
+        },
+        "carbon_footprint": {
+          "value": 3,
+          "unit": "kg CO2e/kg",
+          "category": "Medium"
+        },
+        "land_use": {
+          "value": 0.1,
+          "unit": "m\u00b2/kg"
+        }
+      },
+      "versatility_score": {
+        "value": 25,
+        "category": "Low"
+      },
+      "cost_nutrient_ratio": {
+        "value": 15,
+        "category": "Poor"
+      },
+      "nutritional_summary": "This chocolate snack is high in sugar and fat, and low in protein, vitamins, and minerals. It is also high in calories, so should be eaten in moderation."
+    },
+    {
+      "product_name": "Khyaradon  (Part of Garden  Combo)",
+      "price_paid": 502.0,
+      "num_items": 1,
+      "estimated_quantity": {
+        "value": 1,
+        "unit": "kg"
+      },
+      "serving_size": "100g",
+      "energy": {
+        "per_serving": {
+          "value": 40,
+          "unit": "kcal"
+        }
+      },
+      "macronutrients": {
+        "total_fat": {
+          "per_serving": {
+            "value": 0.2,
+            "unit": "g"
+          }
+        },
+        "carbohydrates": {
+          "per_serving": {
+            "value": 8,
+            "unit": "g"
+          }
+        },
+        "protein": {
+          "per_serving": {
+            "value": 1,
+            "unit": "g"
+          }
+        }
+      },
+      "micronutrients": {
+        "sodium": {
+          "per_serving": {
+            "value": 5,
+            "unit": "mg"
+          }
+        },
+        "key_vitamins_minerals": [
+          {
+            "name": "Vitamin C",
+            "value": 10,
+            "unit": "mg"
+          },
+          {
+            "name": "Potassium",
+            "value": 200,
+            "unit": "mg"
+          }
+        ]
+      },
+      "fiber": {
+        "total": {
+          "per_serving": {
+            "value": 2,
+            "unit": "g"
+          }
+        },
+        "soluble": {
+          "per_serving": {
+            "value": 1,
+            "unit": "g"
+          }
+        },
+        "insoluble": {
+          "per_serving": {
+            "value": 1,
+            "unit": "g"
+          }
+        }
+      },
+      "allergens": [],
+      "nutrient_density_score": {
+        "value": 75,
+        "category": "High"
+      },
+      "glycemic_index": {
+        "value": 20,
+        "category": "Low"
+      },
+      "glycemic_load": 2,
+      "protein_quality": {
+        "score": 0.8,
+        "method": "PDCAAS/DIAAS"
+      },
+      "phytonutrients": [
+        {
+          "name": "Vitamin C",
+          "presence": "high"
+        },
+        {
+          "name": "Antioxidants",
+          "presence": "high"
+        }
+      ],
+      "micronutrient_density": {
+        "per_100_calories": [
+          {
+            "nutrient": "Vitamin C",
+            "value": 25,
+            "unit": "mg"
+          },
+          {
+            "nutrient": "Potassium",
+            "value": 500,
+            "unit": "mg"
+          }
+        ],
+        "per_100_grams": [
+          {
+            "nutrient": "Vitamin C",
+            "value": 10,
+            "unit": "mg"
+          },
+          {
+            "nutrient": "Potassium",
+            "value": 200,
+            "unit": "mg"
+          }
+        ]
+      },
+      "satiety_index": {
+        "value": 50,
+        "category": "Medium"
+      },
+      "environmental_impact": {
+        "water_usage": {
+          "value": 100,
+          "unit": "L/kg"
+        },
+        "carbon_footprint": {
+          "value": 0.5,
+          "unit": "kg CO2e/kg",
+          "category": "Low"
+        },
+        "land_use": {
+          "value": 0.05,
+          "unit": "m\u00b2/kg"
+        }
+      },
+      "versatility_score": {
+        "value": 75,
+        "category": "High"
+      },
+      "cost_nutrient_ratio": {
+        "value": 80,
+        "category": "Excellent"
+      },
+      "nutritional_summary": "This cucumber is a good source of Vitamin C and Potassium, as well as fiber, making it a healthy and hydrating choice for a meal. It is a versatile ingredient and can be used in various salads and dishes."
+    },
+    {
+      "product_name": "Banana with  Selenium Pot",
+      "price_paid": 9.0,
+      "num_items": 1,
+      "estimated_quantity": {
+        "value": 1,
+        "unit": "kg"
+      },
+      "serving_size": "100g",
+      "energy": {
+        "per_serving": {
+          "value": 90,
+          "unit": "kcal"
+        }
+      },
+      "macronutrients": {
+        "total_fat": {
+          "per_serving": {
+            "value": 0.3,
+            "unit": "g"
+          }
+        },
+        "carbohydrates": {
+          "per_serving": {
+            "value": 23,
+            "unit": "g"
+          }
+        },
+        "protein": {
+          "per_serving": {
+            "value": 1,
+            "unit": "g"
+          }
+        }
+      },
+      "micronutrients": {
+        "sodium": {
+          "per_serving": {
+            "value": 1,
+            "unit": "mg"
+          }
+        },
+        "key_vitamins_minerals": [
+          {
+            "name": "Potassium",
+            "value": 400,
+            "unit": "mg"
+          },
+          {
+            "name": "Vitamin B6",
+            "value": 0.4,
+            "unit": "mg"
+          }
+        ]
+      },
+      "fiber": {
+        "total": {
+          "per_serving": {
+            "value": 3,
+            "unit": "g"
+          }
+        },
+        "soluble": {
+          "per_serving": {
+            "value": 1,
+            "unit": "g"
+          }
+        },
+        "insoluble": {
+          "per_serving": {
+            "value": 2,
+            "unit": "g"
+          }
+        }
+      },
+      "allergens": [],
+      "nutrient_density_score": {
+        "value": 70,
+        "category": "Good"
+      },
+      "glycemic_index": {
+        "value": 50,
+        "category": "Medium"
+      },
+      "glycemic_load": 12,
+      "protein_quality": {
+        "score": 0.7,
+        "method": "PDCAAS/DIAAS"
+      },
+      "phytonutrients": [
+        {
+          "name": "Potassium",
+          "presence": "high"
+        },
+        {
+          "name": "Antioxidants",
+          "presence": "medium"
+        }
+      ],
+      "micronutrient_density": {
+        "per_100_calories": [
+          {
+            "nutrient": "Potassium",
+            "value": 444,
+            "unit": "mg"
+          },
+          {
+            "nutrient": "Vitamin B6",
+            "value": 0.4,
+            "unit": "mg"
+          }
+        ],
+        "per_100_grams": [
+          {
+            "nutrient": "Potassium",
+            "value": 400,
+            "unit": "mg"
+          },
+          {
+            "nutrient": "Vitamin B6",
+            "value": 0.4,
+            "unit": "mg"
+          }
+        ]
+      },
+      "satiety_index": {
+        "value": 50,
+        "category": "Medium"
+      },
+      "environmental_impact": {
+        "water_usage": {
+          "value": 150,
+          "unit": "L/kg"
+        },
+        "carbon_footprint": {
+          "value": 0.8,
+          "unit": "kg CO2e/kg",
+          "category": "Low"
+        },
+        "land_use": {
+          "value": 0.05,
+          "unit": "m\u00b2/kg"
+        }
+      },
+      "versatility_score": {
+        "value": 75,
+        "category": "High"
+      },
+      "cost_nutrient_ratio": {
+        "value": 60,
+        "category": "Good"
+      },
+      "nutritional_summary": "This banana is a good source of potassium and vitamin B6, as well as fiber. It is a quick and easy snack, and can be added to smoothies or baked goods."
+    },
+    {
+      "product_name": "The Baker's Whole Wheat  Maida Bread  (Part of  No Namdi  Combo)",
+      "price_paid": 65.0,
+      "num_items": 1,
+      "estimated_quantity": {
+        "value": 400,
+        "unit": "g"
+      },
+      "serving_size": "40g",
+      "energy": {
+        "per_serving": {
+          "value": 100,
+          "unit": "kcal"
+        }
+      },
+      "macronutrients": {
+        "total_fat": {
+          "per_serving": {
+            "value": 2,
+            "unit": "g"
+          }
+        },
+        "carbohydrates": {
+          "per_serving": {
+            "value": 18,
+            "unit": "g"
+          }
+        },
+        "protein": {
+          "per_serving": {
+            "value": 3,
+            "unit": "g"
+          }
+        }
+      },
+      "micronutrients": {
+        "sodium": {
+          "per_serving": {
+            "value": 100,
+            "unit": "mg"
+          }
+        },
+        "key_vitamins_minerals": [
+          {
+            "name": "Iron",
+            "value": 1,
+            "unit": "mg"
+          }
+        ]
+      },
+      "fiber": {
+        "total": {
+          "per_serving": {
+            "value": 2,
+            "unit": "g"
+          }
+        },
+        "soluble": {
+          "per_serving": {
+            "value": 1,
+            "unit": "g"
+          }
+        },
+        "insoluble": {
+          "per_serving": {
+            "value": 1,
+            "unit": "g"
+          }
+        }
+      },
+      "allergens": [
+        "Gluten"
+      ],
+      "nutrient_density_score": {
+        "value": 50,
+        "category": "Low"
+      },
+      "glycemic_index": {
+        "value": 70,
+        "category": "High"
+      },
+      "glycemic_load": 10,
+      "protein_quality": {
+        "score": 0.8,
+        "method": "PDCAAS/DIAAS"
+      },
+      "phytonutrients": [
+        {
+          "name": "Fiber",
+          "presence": "medium"
+        },
+        {
+          "name": "Antioxidants",
+          "presence": "low"
+        }
+      ],
+      "micronutrient_density": {
+        "per_100_calories": [
+          {
+            "nutrient": "Iron",
+            "value": 1,
+            "unit": "mg"
+          }
+        ],
+        "per_100_grams": [
+          {
+            "nutrient": "Iron",
+            "value": 2.5,
+            "unit": "mg"
+          }
+        ]
+      },
+      "satiety_index": {
+        "value": 30,
+        "category": "Low"
+      },
+      "environmental_impact": {
+        "water_usage": {
+          "value": 1500,
+          "unit": "L/kg"
+        },
+        "carbon_footprint": {
+          "value": 2,
+          "unit": "kg CO2e/kg",
+          "category": "Low"
+        },
+        "land_use": {
+          "value": 0.2,
+          "unit": "m\u00b2/kg"
+        }
+      },
+      "versatility_score": {
+        "value": 75,
+        "category": "High"
+      },
+      "cost_nutrient_ratio": {
+        "value": 50,
+        "category": "Fair"
+      },
+      "nutritional_summary": "This whole wheat bread is a good source of fiber and protein. It is also a good source of iron. However, it is high in carbohydrates and may contribute to a rapid increase in blood sugar levels."
+    },
+    {
+      "product_name": "Onion (Ullilagadda)",
+      "price_paid": 59.0,
+      "num_items": 1,
+      "estimated_quantity": {
+        "value": 1,
+        "unit": "kg"
+      },
+      "serving_size": "100g",
+      "energy": {
+        "per_serving": {
+          "value": 40,
+          "unit": "kcal"
+        }
+      },
+      "macronutrients": {
+        "total_fat": {
+          "per_serving": {
+            "value": 0.1,
+            "unit": "g"
+          }
+        },
+        "carbohydrates": {
+          "per_serving": {
+            "value": 9,
+            "unit": "g"
+          }
+        },
+        "protein": {
+          "per_serving": {
+            "value": 1,
+            "unit": "g"
+          }
+        }
+      },
+      "micronutrients": {
+        "sodium": {
+          "per_serving": {
+            "value": 5,
+            "unit": "mg"
+          }
+        },
+        "key_vitamins_minerals": [
+          {
+            "name": "Vitamin C",
+            "value": 10,
+            "unit": "mg"
+          },
+          {
+            "name": "Potassium",
+            "value": 250,
+            "unit": "mg"
+          }
+        ]
+      },
+      "fiber": {
+        "total": {
+          "per_serving": {
+            "value": 2,
+            "unit": "g"
+          }
+        },
+        "soluble": {
+          "per_serving": {
+            "value": 1,
+            "unit": "g"
+          }
+        },
+        "insoluble": {
+          "per_serving": {
+            "value": 1,
+            "unit": "g"
+          }
+        }
+      },
+      "allergens": [],
+      "nutrient_density_score": {
+        "value": 70,
+        "category": "Good"
+      },
+      "glycemic_index": {
+        "value": 40,
+        "category": "Low"
+      },
+      "glycemic_load": 4,
+      "protein_quality": {
+        "score": 0.7,
+        "method": "PDCAAS/DIAAS"
+      },
+      "phytonutrients": [
+        {
+          "name": "Vitamin C",
+          "presence": "high"
+        },
+        {
+          "name": "Antioxidants",
+          "presence": "medium"
+        }
+      ],
+      "micronutrient_density": {
+        "per_100_calories": [
+          {
+            "nutrient": "Vitamin C",
+            "value": 25,
+            "unit": "mg"
+          },
+          {
+            "nutrient": "Potassium",
+            "value": 625,
+            "unit": "mg"
+          }
+        ],
+        "per_100_grams": [
+          {
+            "nutrient": "Vitamin C",
+            "value": 10,
+            "unit": "mg"
+          },
+          {
+            "nutrient": "Potassium",
+            "value": 250,
+            "unit": "mg"
+          }
+        ]
+      },
+      "satiety_index": {
+        "value": 50,
+        "category": "Medium"
+      },
+      "environmental_impact": {
+        "water_usage": {
+          "value": 100,
+          "unit": "L/kg"
+        },
+        "carbon_footprint": {
+          "value": 0.5,
+          "unit": "kg CO2e/kg",
+          "category": "Low"
+        },
+        "land_use": {
+          "value": 0.05,
+          "unit": "m\u00b2/kg"
+        }
+      },
+      "versatility_score": {
+        "value": 75,
+        "category": "High"
+      },
+      "cost_nutrient_ratio": {
+        "value": 70,
+        "category": "Good"
+      },
+      "nutritional_summary": "This onion is a good source of vitamin C, potassium, and fiber, and can be added to various dishes for flavor and nutritional value."
+    },
+    {
+      "product_name": "Coccinia (Part of  Garden  Combo)",
+      "price_paid": 46.0,
+      "num_items": 2,
+      "estimated_quantity": {
+        "value": 1,
+        "unit": "kg"
+      },
+      "serving_size": "100g",
+      "energy": {
+        "per_serving": {
+          "value": 30,
+          "unit": "kcal"
+        }
+      },
+      "macronutrients": {
+        "total_fat": {
+          "per_serving": {
+            "value": 0.1,
+            "unit": "g"
+          }
+        },
+        "carbohydrates": {
+          "per_serving": {
+            "value": 7,
+            "unit": "g"
+          }
+        },
+        "protein": {
+          "per_serving": {
+            "value": 1,
+            "unit": "g"
+          }
+        }
+      },
+      "micronutrients": {
+        "sodium": {
+          "per_serving": {
+            "value": 5,
+            "unit": "mg"
+          }
+        },
+        "key_vitamins_minerals": [
+          {
+            "name": "Vitamin C",
+            "value": 15,
+            "unit": "mg"
+          },
+          {
+            "name": "Potassium",
+            "value": 200,
+            "unit": "mg"
+          }
+        ]
+      },
+      "fiber": {
+        "total": {
+          "per_serving": {
+            "value": 2,
+            "unit": "g"
+          }
+        },
+        "soluble": {
+          "per_serving": {
+            "value": 1,
+            "unit": "g"
+          }
+        },
+        "insoluble": {
+          "per_serving": {
+            "value": 1,
+            "unit": "g"
+          }
+        }
+      },
+      "allergens": [],
+      "nutrient_density_score": {
+        "value": 75,
+        "category": "High"
+      },
+      "glycemic_index": {
+        "value": 25,
+        "category": "Low"
+      },
+      "glycemic_load": 2,
+      "protein_quality": {
+        "score": 0.7,
+        "method": "PDCAAS/DIAAS"
+      },
+      "phytonutrients": [
+        {
+          "name": "Vitamin C",
+          "presence": "high"
+        },
+        {
+          "name": "Antioxidants",
+          "presence": "medium"
+        }
+      ],
+      "micronutrient_density": {
+        "per_100_calories": [
+          {
+            "nutrient": "Vitamin C",
+            "value": 50,
+            "unit": "mg"
+          },
+          {
+            "nutrient": "Potassium",
+            "value": 666,
+            "unit": "mg"
+          }
+        ],
+        "per_100_grams": [
+          {
+            "nutrient": "Vitamin C",
+            "value": 15,
+            "unit": "mg"
+          },
+          {
+            "nutrient": "Potassium",
+            "value": 200,
+            "unit": "mg"
+          }
+        ]
+      },
+      "satiety_index": {
+        "value": 50,
+        "category": "Medium"
+      },
+      "environmental_impact": {
+        "water_usage": {
+          "value": 100,
+          "unit": "L/kg"
+        },
+        "carbon_footprint": {
+          "value": 0.5,
+          "unit": "kg CO2e/kg",
+          "category": "Low"
+        },
+        "land_use": {
+          "value": 0.05,
+          "unit": "m\u00b2/kg"
+        }
+      },
+      "versatility_score": {
+        "value": 75,
+        "category": "High"
+      },
+      "cost_nutrient_ratio": {
+        "value": 70,
+        "category": "Good"
+      },
+      "nutritional_summary": "This ivy gourd is a good source of vitamin C, potassium, and fiber, and can be added to various dishes for flavor and nutritional value."
+    }
+  ],
+  "nutrient_density_distribution": {
+    "Very Low": 2,
+    "Low": 1,
+    "Medium": 1,
+    "High": 2,
+    "Unknown": 0
+  },
+  "raw_results": [
+    "```json\n{\n    \"invoice_date\": \"2023-06-29\",\n    \"edible_products\": [\n        {\n            \"product_name\": \"Toned Milk\",\n            \"price_paid\": 90.48,\n            \"num_items\": 1,\n            \"estimated_quantity\": {\"value\": 1, \"unit\": \"L\"},\n            \"serving_size\": \"240 ml\",\n            \"energy\": {\n                \"per_serving\": {\"value\": 120, \"unit\": \"kcal\"}\n            },\n            \"macronutrients\": {\n                \"total_fat\": {\"per_serving\": {\"value\": 3.5, \"unit\": \"g\"}},\n                \"carbohydrates\": {\"per_serving\": {\"value\": 12, \"unit\": \"g\"}},\n                \"protein\": {\"per_serving\": {\"value\": 3.5, \"unit\": \"g\"}}\n            },\n            \"micronutrients\": {\n                \"sodium\": {\"per_serving\": {\"value\": 100, \"unit\": \"mg\"}},\n                \"key_vitamins_minerals\": [\n                    {\"name\": \"Calcium\", \"value\": 290, \"unit\": \"mg\"},\n                    {\"name\": \"Vitamin D\", \"value\": 1, \"unit\": \"\u00b5g\"}\n                ]\n            },\n            \"fiber\": {\n                \"total\": {\"per_serving\": {\"value\": 0, \"unit\": \"g\"}},\n                \"soluble\": {\"per_serving\": {\"value\": 0, \"unit\": \"g\"}},\n                \"insoluble\": {\"per_serving\": {\"value\": 0, \"unit\": \"g\"}}\n            },\n            \"allergens\": [],\n            \"nutrient_density_score\": {\n                \"value\": 45,\n                \"category\": \"Low\"\n            },\n            \"glycemic_index\": {\n                \"value\": 30,\n                \"category\": \"Low\"\n            },\n            \"glycemic_load\": 3.6,\n            \"protein_quality\": {\n                \"score\": 0.8,\n                \"method\": \"PDCAAS/DIAAS\"\n            },\n            \"phytonutrients\": [],\n            \"micronutrient_density\": {\n                \"per_100_calories\": [\n                    {\"nutrient\": \"Calcium\", \"value\": 240, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Vitamin D\", \"value\": 0.8, \"unit\": \"\u00b5g\"}\n                ],\n                \"per_100_grams\": [\n                    {\"nutrient\": \"Calcium\", \"value\": 1200, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Vitamin D\", \"value\": 4, \"unit\": \"\u00b5g\"}\n                ]\n            },\n            \"satiety_index\": {\n                \"value\": 35,\n                \"category\": \"Medium\"\n            },\n            \"environmental_impact\": {\n                \"water_usage\": {\"value\": 1000, \"unit\": \"L/kg\"},\n                \"carbon_footprint\": {\n                    \"value\": 2,\n                    \"unit\": \"kg CO2e/kg\",\n                    \"category\": \"Medium\"\n                },\n                \"land_use\": {\"value\": 1.5, \"unit\": \"m\u00b2/kg\"}\n            },\n            \"versatility_score\": {\n                \"value\": 60,\n                \"category\": \"Medium\"\n            },\n            \"cost_nutrient_ratio\": {\n                \"value\": 70,\n                \"category\": \"Good\"\n            },\n            \"nutritional_summary\": \"Milk is a good source of calcium, vitamin D, and protein. It is also a good source of other nutrients, such as potassium, riboflavin, and vitamin B12. Milk is a versatile food that can be enjoyed in many different ways.\"\n        },\n        {\n            \"product_name\": \"Amul Malai Paneer Dice\",\n            \"price_paid\": 0,\n            \"num_items\": 1,\n            \"estimated_quantity\": {\"value\": 200, \"unit\": \"g\"},\n            \"serving_size\": \"50 g\",\n            \"energy\": {\n                \"per_serving\": {\"value\": 100, \"unit\": \"kcal\"}\n            },\n            \"macronutrients\": {\n                \"total_fat\": {\"per_serving\": {\"value\": 6, \"unit\": \"g\"}},\n                \"carbohydrates\": {\"per_serving\": {\"value\": 2, \"unit\": \"g\"}},\n                \"protein\": {\"per_serving\": {\"value\": 12, \"unit\": \"g\"}}\n            },\n            \"micronutrients\": {\n                \"sodium\": {\"per_serving\": {\"value\": 100, \"unit\": \"mg\"}},\n                \"key_vitamins_minerals\": [\n                    {\"name\": \"Calcium\", \"value\": 180, \"unit\": \"mg\"},\n                    {\"name\": \"Riboflavin\", \"value\": 0.2, \"unit\": \"mg\"}\n                ]\n            },\n            \"fiber\": {\n                \"total\": {\"per_serving\": {\"value\": 0, \"unit\": \"g\"}},\n                \"soluble\": {\"per_serving\": {\"value\": 0, \"unit\": \"g\"}},\n                \"insoluble\": {\"per_serving\": {\"value\": 0, \"unit\": \"g\"}}\n            },\n            \"allergens\": [],\n            \"nutrient_density_score\": {\n                \"value\": 65,\n                \"category\": \"Medium\"\n            },\n            \"glycemic_index\": {\n                \"value\": 30,\n                \"category\": \"Low\"\n            },\n            \"glycemic_load\": 0.6,\n            \"protein_quality\": {\n                \"score\": 1,\n                \"method\": \"PDCAAS/DIAAS\"\n            },\n            \"phytonutrients\": [],\n            \"micronutrient_density\": {\n                \"per_100_calories\": [\n                    {\"nutrient\": \"Calcium\", \"value\": 180, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Riboflavin\", \"value\": 0.2, \"unit\": \"mg\"}\n                ],\n                \"per_100_grams\": [\n                    {\"nutrient\": \"Calcium\", \"value\": 900, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Riboflavin\", \"value\": 1, \"unit\": \"mg\"}\n                ]\n            },\n            \"satiety_index\": {\n                \"value\": 50,\n                \"category\": \"High\"\n            },\n            \"environmental_impact\": {\n                \"water_usage\": {\"value\": 800, \"unit\": \"L/kg\"},\n                \"carbon_footprint\": {\n                    \"value\": 3,\n                    \"unit\": \"kg CO2e/kg\",\n                    \"category\": \"Medium\"\n                },\n                \"land_use\": {\"value\": 1.2, \"unit\": \"m\u00b2/kg\"}\n            },\n            \"versatility_score\": {\n                \"value\": 70,\n                \"category\": \"High\"\n            },\n            \"cost_nutrient_ratio\": {\n                \"value\": 80,\n                \"category\": \"Excellent\"\n            },\n            \"nutritional_summary\": \"Paneer is a good source of protein, calcium, and riboflavin. It is also a good source of other nutrients, such as phosphorus, potassium, and vitamin B12. Paneer is a versatile food that can be enjoyed in many different ways.\"\n        },\n        {\n            \"product_name\": \"Maggi Veg Atta Noodles\",\n            \"price_paid\": 91.00,\n            \"num_items\": 1,\n            \"estimated_quantity\": {\"value\": 1, \"unit\": \"pack\"},\n            \"serving_size\": \"75 g\",\n            \"energy\": {\n                \"per_serving\": {\"value\": 350, \"unit\": \"kcal\"}\n            },\n            \"macronutrients\": {\n                \"total_fat\": {\"per_serving\": {\"value\": 10, \"unit\": \"g\"}},\n                \"carbohydrates\": {\"per_serving\": {\"value\": 60, \"unit\": \"g\"}},\n                \"protein\": {\"per_serving\": {\"value\": 8, \"unit\": \"g\"}}\n            },\n            \"micronutrients\": {\n                \"sodium\": {\"per_serving\": {\"value\": 700, \"unit\": \"mg\"}},\n                \"key_vitamins_minerals\": [\n                    {\"name\": \"Iron\", \"value\": 3, \"unit\": \"mg\"},\n                    {\"name\": \"Vitamin B1\", \"value\": 0.3, \"unit\": \"mg\"}\n                ]\n            },\n            \"fiber\": {\n                \"total\": {\"per_serving\": {\"value\": 2, \"unit\": \"g\"}},\n                \"soluble\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}},\n                \"insoluble\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}}\n            },\n            \"allergens\": [\n                \"wheat\",\n                \"soy\"\n            ],\n            \"nutrient_density_score\": {\n                \"value\": 30,\n                \"category\": \"Low\"\n            },\n            \"glycemic_index\": {\n                \"value\": 60,\n                \"category\": \"Medium\"\n            },\n            \"glycemic_load\": 18,\n            \"protein_quality\": {\n                \"score\": 0.7,\n                \"method\": \"PDCAAS/DIAAS\"\n            },\n            \"phytonutrients\": [],\n            \"micronutrient_density\": {\n                \"per_100_calories\": [\n                    {\"nutrient\": \"Iron\", \"value\": 0.8, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Vitamin B1\", \"value\": 0.08, \"unit\": \"mg\"}\n                ],\n                \"per_100_grams\": [\n                    {\"nutrient\": \"Iron\", \"value\": 4, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Vitamin B1\", \"value\": 0.4, \"unit\": \"mg\"}\n                ]\n            },\n            \"satiety_index\": {\n                \"value\": 30,\n                \"category\": \"Medium\"\n            },\n            \"environmental_impact\": {\n                \"water_usage\": {\"value\": 1500, \"unit\": \"L/kg\"},\n                \"carbon_footprint\": {\n                    \"value\": 4,\n                    \"unit\": \"kg CO2e/kg\",\n                    \"category\": \"Medium\"\n                },\n                \"land_use\": {\"value\": 2.5, \"unit\": \"m\u00b2/kg\"}\n            },\n            \"versatility_score\": {\n                \"value\": 50,\n                \"category\": \"Medium\"\n            },\n            \"cost_nutrient_ratio\": {\n                \"value\": 50,\n                \"category\": \"Fair\"\n            },\n            \"nutritional_summary\": \"Maggi Veg Atta Noodles are a convenient and tasty meal option, but they are high in sodium, carbohydrates, and fat. They are also a source of iron and vitamin B1. It is important to consume this food in moderation and as part of a balanced diet.\"\n        },\n        {\n            \"product_name\": \"Bingo Style Chilli Potato Chips\",\n            \"price_paid\": 17.86,\n            \"num_items\": 1,\n            \"estimated_quantity\": {\"value\": 50, \"unit\": \"g\"},\n            \"serving_size\": \"28 g\",\n            \"energy\": {\n                \"per_serving\": {\"value\": 150, \"unit\": \"kcal\"}\n            },\n            \"macronutrients\": {\n                \"total_fat\": {\"per_serving\": {\"value\": 9, \"unit\": \"g\"}},\n                \"carbohydrates\": {\"per_serving\": {\"value\": 18, \"unit\": \"g\"}},\n                \"protein\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}}\n            },\n            \"micronutrients\": {\n                \"sodium\": {\"per_serving\": {\"value\": 150, \"unit\": \"mg\"}},\n                \"key_vitamins_minerals\": []\n            },\n            \"fiber\": {\n                \"total\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}},\n                \"soluble\": {\"per_serving\": {\"value\": 0.5, \"unit\": \"g\"}},\n                \"insoluble\": {\"per_serving\": {\"value\": 0.5, \"unit\": \"g\"}}\n            },\n            \"allergens\": [\n                \"wheat\"\n            ],\n            \"nutrient_density_score\": {\n                \"value\": 15,\n                \"category\": \"Very Low\"\n            },\n            \"glycemic_index\": {\n                \"value\": 65,\n                \"category\": \"Medium\"\n            },\n            \"glycemic_load\": 5.7,\n            \"protein_quality\": {\n                \"score\": 0.4,\n                \"method\": \"PDCAAS/DIAAS\"\n            },\n            \"phytonutrients\": [],\n            \"micronutrient_density\": {\n                \"per_100_calories\": [],\n                \"per_100_grams\": []\n            },\n            \"satiety_index\": {\n                \"value\": 15,\n                \"category\": \"Low\"\n            },\n            \"environmental_impact\": {\n                \"water_usage\": {\"value\": 1800, \"unit\": \"L/kg\"},\n                \"carbon_footprint\": {\n                    \"value\": 5,\n                    \"unit\": \"kg CO2e/kg\",\n                    \"category\": \"High\"\n                },\n                \"land_use\": {\"value\": 3, \"unit\": \"m\u00b2/kg\"}\n            },\n            \"versatility_score\": {\n                \"value\": 20,\n                \"category\": \"Low\"\n            },\n            \"cost_nutrient_ratio\": {\n                \"value\": 20,\n                \"category\": \"Poor\"\n            },\n            \"nutritional_summary\": \"Potato chips are high in fat, sodium, and carbohydrates. They are a poor source of nutrients and should be consumed in moderation.\"\n        },\n        {\n            \"product_name\": \"TGF Wheat Chips\",\n            \"price_paid\": 37.50,\n            \"num_items\": 1,\n            \"estimated_quantity\": {\"value\": 100, \"unit\": \"g\"},\n            \"serving_size\": \"25 g\",\n            \"energy\": {\n                \"per_serving\": {\"value\": 120, \"unit\": \"kcal\"}\n            },\n            \"macronutrients\": {\n                \"total_fat\": {\"per_serving\": {\"value\": 7, \"unit\": \"g\"}},\n                \"carbohydrates\": {\"per_serving\": {\"value\": 15, \"unit\": \"g\"}},\n                \"protein\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}}\n            },\n            \"micronutrients\": {\n                \"sodium\": {\"per_serving\": {\"value\": 120, \"unit\": \"mg\"}},\n                \"key_vitamins_minerals\": []\n            },\n            \"fiber\": {\n                \"total\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}},\n                \"soluble\": {\"per_serving\": {\"value\": 0.5, \"unit\": \"g\"}},\n                \"insoluble\": {\"per_serving\": {\"value\": 0.5, \"unit\": \"g\"}}\n            },\n            \"allergens\": [\n                \"wheat\"\n            ],\n            \"nutrient_density_score\": {\n                \"value\": 20,\n                \"category\": \"Very Low\"\n            },\n            \"glycemic_index\": {\n                \"value\": 60,\n                \"category\": \"Medium\"\n            },\n            \"glycemic_load\": 4.5,\n            \"protein_quality\": {\n                \"score\": 0.5,\n                \"method\": \"PDCAAS/DIAAS\"\n            },\n            \"phytonutrients\": [],\n            \"micronutrient_density\": {\n                \"per_100_calories\": [],\n                \"per_100_grams\": []\n            },\n            \"satiety_index\": {\n                \"value\": 20,\n                \"category\": \"Low\"\n            },\n            \"environmental_impact\": {\n                \"water_usage\": {\"value\": 1600, \"unit\": \"L/kg\"},\n                \"carbon_footprint\": {\n                    \"value\": 4,\n                    \"unit\": \"kg CO2e/kg\",\n                    \"category\": \"Medium\"\n                },\n                \"land_use\": {\"value\": 2.8, \"unit\": \"m\u00b2/kg\"}\n            },\n            \"versatility_score\": {\n                \"value\": 30,\n                \"category\": \"Low\"\n            },\n            \"cost_nutrient_ratio\": {\n                \"value\": 30,\n                \"category\": \"Poor\"\n            },\n            \"nutritional_summary\": \"Wheat chips are high in fat, sodium, and carbohydrates. They are a poor source of nutrients and should be consumed in moderation.\"\n        },\n        {\n            \"product_name\": \"Organic Whole Wheat Flour\",\n            \"price_paid\": 277.14,\n            \"num_items\": 1,\n            \"estimated_quantity\": {\"value\": 1, \"unit\": \"kg\"},\n            \"serving_size\": \"30 g\",\n            \"energy\": {\n                \"per_serving\": {\"value\": 110, \"unit\": \"kcal\"}\n            },\n            \"macronutrients\": {\n                \"total_fat\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}},\n                \"carbohydrates\": {\"per_serving\": {\"value\": 22, \"unit\": \"g\"}},\n                \"protein\": {\"per_serving\": {\"value\": 3, \"unit\": \"g\"}}\n            },\n            \"micronutrients\": {\n                \"sodium\": {\"per_serving\": {\"value\": 5, \"unit\": \"mg\"}},\n                \"key_vitamins_minerals\": [\n                    {\"name\": \"Iron\", \"value\": 1, \"unit\": \"mg\"},\n                    {\"name\": \"Fiber\", \"value\": 3, \"unit\": \"g\"}\n                ]\n            },\n            \"fiber\": {\n                \"total\": {\"per_serving\": {\"value\": 3, \"unit\": \"g\"}},\n                \"soluble\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}},\n                \"insoluble\": {\"per_serving\": {\"value\": 2, \"unit\": \"g\"}}\n            },\n            \"allergens\": [\n                \"wheat\"\n            ],\n            \"nutrient_density_score\": {\n                \"value\": 70,\n                \"category\": \"High\"\n            },\n            \"glycemic_index\": {\n                \"value\": 50,\n                \"category\": \"Medium\"\n            },\n            \"glycemic_load\": 11,\n            \"protein_quality\": {\n                \"score\": 0.8,\n                \"method\": \"PDCAAS/DIAAS\"\n            },\n            \"phytonutrients\": [\n                {\"name\": \"Fiber\", \"presence\": \"high\"},\n                {\"name\": \"Antioxidants\", \"presence\": \"medium\"}\n            ],\n            \"micronutrient_density\": {\n                \"per_100_calories\": [\n                    {\"nutrient\": \"Iron\", \"value\": 0.9, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Fiber\", \"value\": 27, \"unit\": \"g\"}\n                ],\n                \"per_100_grams\": [\n                    {\"nutrient\": \"Iron\", \"value\": 3.3, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Fiber\", \"value\": 100, \"unit\": \"g\"}\n                ]\n            },\n            \"satiety_index\": {\n                \"value\": 70,\n                \"category\": \"High\"\n            },\n            \"environmental_impact\": {\n                \"water_usage\": {\"value\": 1200, \"unit\": \"L/kg\"},\n                \"carbon_footprint\": {\n                    \"value\": 2,\n                    \"unit\": \"kg CO2e/kg\",\n                    \"category\": \"Medium\"\n                },\n                \"land_use\": {\"value\": 1.8, \"unit\": \"m\u00b2/kg\"}\n            },\n            \"versatility_score\": {\n                \"value\": 80,\n                \"category\": \"Very High\"\n            },\n            \"cost_nutrient_ratio\": {\n                \"value\": 90,\n                \"category\": \"Excellent\"\n            },\n            \"nutritional_summary\": \"Whole wheat flour is a good source of fiber, iron, and other nutrients. It is also a good source of complex carbohydrates, which provide sustained energy. It is important to choose whole wheat flour over refined white flour, as whole wheat flour is more nutritious and contains more fiber. The fiber in whole wheat flour can help to regulate digestion, lower cholesterol levels, and improve blood sugar control.\"\n        },\n        {\n            \"product_name\": \"Organic Basang Masala\",\n            \"price_paid\": 24.11,\n            \"num_items\": 1,\n            \"estimated_quantity\": {\"value\": 100, \"unit\": \"g\"},\n            \"serving_size\": \"1 tsp\",\n            \"energy\": {\n                \"per_serving\": {\"value\": 10, \"unit\": \"kcal\"}\n            },\n            \"macronutrients\": {\n                \"total_fat\": {\"per_serving\": {\"value\": 0.5, \"unit\": \"g\"}},\n                \"carbohydrates\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}},\n                \"protein\": {\"per_serving\": {\"value\": 0.5, \"unit\": \"g\"}}\n            },\n            \"micronutrients\": {\n                \"sodium\": {\"per_serving\": {\"value\": 50, \"unit\": \"mg\"}},\n                \"key_vitamins_minerals\": []\n            },\n            \"fiber\": {\n                \"total\": {\"per_serving\": {\"value\": 0.1, \"unit\": \"g\"}},\n                \"soluble\": {\"per_serving\": {\"value\": 0, \"unit\": \"g\"}},\n                \"insoluble\": {\"per_serving\": {\"value\": 0.1, \"unit\": \"g\"}}\n            },\n            \"allergens\": [],\n            \"nutrient_density_score\": {\n                \"value\": 25,\n                \"category\": \"Very Low\"\n            },\n            \"glycemic_index\": {\n                \"value\": 40,\n                \"category\": \"Low\"\n            },\n            \"glycemic_load\": 0.4,\n            \"protein_quality\": {\n                \"score\": 0.5,\n                \"method\": \"PDCAAS/DIAAS\"\n            },\n            \"phytonutrients\": [],\n            \"micronutrient_density\": {\n                \"per_100_calories\": [],\n                \"per_100_grams\": []\n            },\n            \"satiety_index\": {\n                \"value\": 10,\n                \"category\": \"Low\"\n            },\n            \"environmental_impact\": {\n                \"water_usage\": {\"value\": 500, \"unit\": \"L/kg\"},\n                \"carbon_footprint\": {\n                    \"value\": 1,\n                    \"unit\": \"kg CO2e/kg\",\n                    \"category\": \"Low\"\n                },\n                \"land_use\": {\"value\": 0.8, \"unit\": \"m\u00b2/kg\"}\n            },\n            \"versatility_score\": {\n                \"value\": 90,\n                \"category\": \"Very High\"\n            },\n            \"cost_nutrient_ratio\": {\n                \"value\": 40,\n                \"category\": \"Fair\"\n            },\n            \"nutritional_summary\": \"Basang masala is a blend of spices that can add flavor and aroma to your dishes. It is a good source of antioxidants and can help to boost your immune system. However, it is important to consume it in moderation.\"\n        },\n        {\n            \"product_name\": \"Organic Whole Wheat Flour\",\n            \"price_paid\": 4.24,\n            \"num_items\": 1,\n            \"estimated_quantity\": {\"value\": 500, \"unit\": \"g\"},\n            \"serving_size\": \"30 g\",\n            \"energy\": {\n                \"per_serving\": {\"value\": 110, \"unit\": \"kcal\"}\n            },\n            \"macronutrients\": {\n                \"total_fat\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}},\n                \"carbohydrates\": {\"per_serving\": {\"value\": 22, \"unit\": \"g\"}},\n                \"protein\": {\"per_serving\": {\"value\": 3, \"unit\": \"g\"}}\n            },\n            \"micronutrients\": {\n                \"sodium\": {\"per_serving\": {\"value\": 5, \"unit\": \"mg\"}},\n                \"key_vitamins_minerals\": [\n                    {\"name\": \"Iron\", \"value\": 1, \"unit\": \"mg\"},\n                    {\"name\": \"Fiber\", \"value\": 3, \"unit\": \"g\"}\n                ]\n            },\n            \"fiber\": {\n                \"total\": {\"per_serving\": {\"value\": 3, \"unit\": \"g\"}},\n                \"soluble\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}},\n                \"insoluble\": {\"per_serving\": {\"value\": 2, \"unit\": \"g\"}}\n            },\n            \"allergens\": [\n                \"wheat\"\n            ],\n            \"nutrient_density_score\": {\n                \"value\": 70,\n                \"category\": \"High\"\n            },\n            \"glycemic_index\": {\n                \"value\": 50,\n                \"category\": \"Medium\"\n            },\n            \"glycemic_load\": 11,\n            \"protein_quality\": {\n                \"score\": 0.8,\n                \"method\": \"PDCAAS/DIAAS\"\n            },\n            \"phytonutrients\": [\n                {\"name\": \"Fiber\", \"presence\": \"high\"},\n                {\"name\": \"Antioxidants\", \"presence\": \"medium\"}\n            ],\n            \"micronutrient_density\": {\n                \"per_100_calories\": [\n                    {\"nutrient\": \"Iron\", \"value\": 0.9, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Fiber\", \"value\": 27, \"unit\": \"g\"}\n                ],\n                \"per_100_grams\": [\n                    {\"nutrient\": \"Iron\", \"value\": 3.3, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Fiber\", \"value\": 100, \"unit\": \"g\"}\n                ]\n            },\n            \"satiety_index\": {\n                \"value\": 70,\n                \"category\": \"High\"\n            },\n            \"environmental_impact\": {\n                \"water_usage\": {\"value\": 1200, \"unit\": \"L/kg\"},\n                \"carbon_footprint\": {\n                    \"value\": 2,\n                    \"unit\": \"kg CO2e/kg\",\n                    \"category\": \"Medium\"\n                },\n                \"land_use\": {\"value\": 1.8, \"unit\": \"m\u00b2/kg\"}\n            },\n            \"versatility_score\": {\n                \"value\": 80,\n                \"category\": \"Very High\"\n            },\n            \"cost_nutrient_ratio\": {\n                \"value\": 90,\n                \"category\": \"Excellent\"\n            },\n            \"nutritional_summary\": \"Whole wheat flour is a good source of fiber, iron, and other nutrients. It is also a good source of complex carbohydrates, which provide sustained energy. It is important to choose whole wheat flour over refined white flour, as whole wheat flour is more nutritious and contains more fiber. The fiber in whole wheat flour can help to regulate digestion, lower cholesterol levels, and improve blood sugar control.\"\n        }\n    ]\n}\n```\n\n```json\n{\n    \"Very Low\": 25,\n    \"Low\": 25,\n    \"Medium\": 25,\n    \"High\": 25\n}\n```\n\nThis analysis highlights that the grocery bill is relatively balanced in terms of nutrient density, with a quarter of the edible products falling into each category (Very Low, Low, Medium, and High). This suggests a mix of foods that are both nutrient-rich and not as nutrient-rich, allowing for a balanced dietary approach. \n\nThe bill focuses on some high-nutrient options, including:\n\n* **Whole wheat flour:** This is a rich source of fiber, iron, and other important nutrients.\n* **Paneer:** This provides a good source of protein, calcium, and riboflavin.\n\nHowever, the bill also includes processed foods like potato chips and noodles, which are relatively low in nutrient density. It's important to be mindful of portion sizes and to choose these options in moderation. \n\nThe environmental impact of the bill is generally moderate, with some products having a higher carbon footprint, like potato chips and wheat chips.  However, the inclusion of organic whole wheat flour and basang masala helps offset the environmental impact of the more processed items. \n\nOverall, this grocery bill demonstrates a balance between nutrient density, environmental impact, and cost. By making smart choices about portion sizes and opting for nutrient-rich alternatives when possible, individuals can create healthy and sustainable eating habits. \n",
+    "```json\n{\n    \"invoice_date\": \"2024-06-07\",\n    \"edible_products\": [\n        {\n            \"product_name\": \"Uncle Chips Spicy Treat Sampaan\",\n            \"price_paid\": 44.64,\n            \"num_items\": 1,\n            \"estimated_quantity\": {\"value\": 150, \"unit\": \"g\"},\n            \"serving_size\": \"28g\",\n            \"energy\": {\n                \"per_serving\": {\"value\": 150, \"unit\": \"kcal\"}\n            },\n            \"macronutrients\": {\n                \"total_fat\": {\"per_serving\": {\"value\": 10, \"unit\": \"g\"}},\n                \"carbohydrates\": {\"per_serving\": {\"value\": 18, \"unit\": \"g\"}},\n                \"protein\": {\"per_serving\": {\"value\": 2, \"unit\": \"g\"}}\n            },\n            \"micronutrients\": {\n                \"sodium\": {\"per_serving\": {\"value\": 150, \"unit\": \"mg\"}},\n                \"key_vitamins_minerals\": [\n                    {\"name\": \"Vitamin C\", \"value\": 0, \"unit\": \"mg\"},\n                    {\"name\": \"Iron\", \"value\": 1, \"unit\": \"mg\"}\n                ]\n            },\n            \"fiber\": {\n                \"total\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}},\n                \"soluble\": {\"per_serving\": {\"value\": 0.5, \"unit\": \"g\"}},\n                \"insoluble\": {\"per_serving\": {\"value\": 0.5, \"unit\": \"g\"}}\n            },\n            \"allergens\": [\n                \"Gluten\",\n                \"Soy\"\n            ],\n            \"nutrient_density_score\": {\n                \"value\": 25,\n                \"category\": \"Very Low\"\n            },\n            \"glycemic_index\": {\n                \"value\": 70,\n                \"category\": \"High\"\n            },\n            \"glycemic_load\": 13,\n            \"protein_quality\": {\n                \"score\": 0.5,\n                \"method\": \"PDCAAS/DIAAS\"\n            },\n            \"phytonutrients\": [\n                {\"name\": \"Antioxidants\", \"presence\": \"medium\"}\n            ],\n            \"micronutrient_density\": {\n                \"per_100_calories\": [\n                    {\"nutrient\": \"Iron\", \"value\": 0.7, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Sodium\", \"value\": 100, \"unit\": \"mg\"}\n                ],\n                \"per_100_grams\": [\n                    {\"nutrient\": \"Iron\", \"value\": 0.7, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Sodium\", \"value\": 100, \"unit\": \"mg\"}\n                ]\n            },\n            \"satiety_index\": {\n                \"value\": 25,\n                \"category\": \"Low\"\n            },\n            \"environmental_impact\": {\n                \"water_usage\": {\"value\": 1000, \"unit\": \"L/kg\"},\n                \"carbon_footprint\": {\n                    \"value\": 2,\n                    \"unit\": \"kg CO2e/kg\",\n                    \"category\": \"Low\"\n                },\n                \"land_use\": {\"value\": 0.1, \"unit\": \"m\u00b2/kg\"}\n            },\n            \"versatility_score\": {\n                \"value\": 25,\n                \"category\": \"Low\"\n            },\n            \"cost_nutrient_ratio\": {\n                \"value\": 20,\n                \"category\": \"Fair\"\n            },\n            \"nutritional_summary\": \"This snack is high in carbohydrates and sodium, but low in protein, vitamins, and minerals. It also has a moderate glycemic index, meaning it can lead to a rapid increase in blood sugar levels.\"\n        },\n        {\n            \"product_name\": \"Tata Sampan Harvest - Aahar Dal\",\n            \"price_paid\": 26.19,\n            \"num_items\": 1,\n            \"estimated_quantity\": {\"value\": 500, \"unit\": \"g\"},\n            \"serving_size\": \"50g\",\n            \"energy\": {\n                \"per_serving\": {\"value\": 150, \"unit\": \"kcal\"}\n            },\n            \"macronutrients\": {\n                \"total_fat\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}},\n                \"carbohydrates\": {\"per_serving\": {\"value\": 25, \"unit\": \"g\"}},\n                \"protein\": {\"per_serving\": {\"value\": 5, \"unit\": \"g\"}}\n            },\n            \"micronutrients\": {\n                \"sodium\": {\"per_serving\": {\"value\": 10, \"unit\": \"mg\"}},\n                \"key_vitamins_minerals\": [\n                    {\"name\": \"Iron\", \"value\": 1, \"unit\": \"mg\"},\n                    {\"name\": \"Folate\", \"value\": 50, \"unit\": \"mcg\"}\n                ]\n            },\n            \"fiber\": {\n                \"total\": {\"per_serving\": {\"value\": 5, \"unit\": \"g\"}},\n                \"soluble\": {\"per_serving\": {\"value\": 2, \"unit\": \"g\"}},\n                \"insoluble\": {\"per_serving\": {\"value\": 3, \"unit\": \"g\"}}\n            },\n            \"allergens\": [\n                \"Gluten\"\n            ],\n            \"nutrient_density_score\": {\n                \"value\": 60,\n                \"category\": \"Medium\"\n            },\n            \"glycemic_index\": {\n                \"value\": 30,\n                \"category\": \"Low\"\n            },\n            \"glycemic_load\": 4,\n            \"protein_quality\": {\n                \"score\": 0.8,\n                \"method\": \"PDCAAS/DIAAS\"\n            },\n            \"phytonutrients\": [\n                {\"name\": \"Fiber\", \"presence\": \"high\"},\n                {\"name\": \"Antioxidants\", \"presence\": \"medium\"}\n            ],\n            \"micronutrient_density\": {\n                \"per_100_calories\": [\n                    {\"nutrient\": \"Iron\", \"value\": 0.7, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Folate\", \"value\": 33, \"unit\": \"mcg\"}\n                ],\n                \"per_100_grams\": [\n                    {\"nutrient\": \"Iron\", \"value\": 2, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Folate\", \"value\": 100, \"unit\": \"mcg\"}\n                ]\n            },\n            \"satiety_index\": {\n                \"value\": 50,\n                \"category\": \"Medium\"\n            },\n            \"environmental_impact\": {\n                \"water_usage\": {\"value\": 1500, \"unit\": \"L/kg\"},\n                \"carbon_footprint\": {\n                    \"value\": 1,\n                    \"unit\": \"kg CO2e/kg\",\n                    \"category\": \"Low\"\n                },\n                \"land_use\": {\"value\": 0.2, \"unit\": \"m\u00b2/kg\"}\n            },\n            \"versatility_score\": {\n                \"value\": 75,\n                \"category\": \"High\"\n            },\n            \"cost_nutrient_ratio\": {\n                \"value\": 70,\n                \"category\": \"Good\"\n            },\n            \"nutritional_summary\": \"This lentil-based product is a good source of protein, fiber, and folate. It is also relatively low in fat and sodium, making it a healthy choice for a meal. It is versatile and can be used in various dishes.\"\n        },\n        {\n            \"product_name\": \"Dove Soft & Silky  Colgate Slim Soft  Toothbrush\",\n            \"price_paid\": 52.54,\n            \"num_items\": 1,\n            \"estimated_quantity\": {\"value\": null, \"unit\": null},\n            \"serving_size\": null,\n            \"energy\": {\n                \"per_serving\": {\"value\": null, \"unit\": null}\n            },\n            \"macronutrients\": {\n                \"total_fat\": {\"per_serving\": {\"value\": null, \"unit\": null}},\n                \"carbohydrates\": {\"per_serving\": {\"value\": null, \"unit\": null}},\n                \"protein\": {\"per_serving\": {\"value\": null, \"unit\": null}}\n            },\n            \"micronutrients\": {\n                \"sodium\": {\"per_serving\": {\"value\": null, \"unit\": null}},\n                \"key_vitamins_minerals\": []\n            },\n            \"fiber\": {\n                \"total\": {\"per_serving\": {\"value\": null, \"unit\": null}},\n                \"soluble\": {\"per_serving\": {\"value\": null, \"unit\": null}},\n                \"insoluble\": {\"per_serving\": {\"value\": null, \"unit\": null}}\n            },\n            \"allergens\": [],\n            \"nutrient_density_score\": {\n                \"value\": null,\n                \"category\": null\n            },\n            \"glycemic_index\": {\n                \"value\": null,\n                \"category\": null\n            },\n            \"glycemic_load\": null,\n            \"protein_quality\": {\n                \"score\": null,\n                \"method\": null\n            },\n            \"phytonutrients\": [],\n            \"micronutrient_density\": {\n                \"per_100_calories\": [],\n                \"per_100_grams\": []\n            },\n            \"satiety_index\": {\n                \"value\": null,\n                \"category\": null\n            },\n            \"environmental_impact\": {\n                \"water_usage\": {\"value\": null, \"unit\": null},\n                \"carbon_footprint\": {\n                    \"value\": null,\n                    \"unit\": null,\n                    \"category\": null\n                },\n                \"land_use\": {\"value\": null, \"unit\": null}\n            },\n            \"versatility_score\": {\n                \"value\": null,\n                \"category\": null\n            },\n            \"cost_nutrient_ratio\": {\n                \"value\": null,\n                \"category\": null\n            },\n            \"nutritional_summary\": null\n        },\n        {\n            \"product_name\": \"Nestle Munch Choco -  Munch  Milk Chocolate\",\n            \"price_paid\": 16.95,\n            \"num_items\": 2,\n            \"estimated_quantity\": {\"value\": 100, \"unit\": \"g\"},\n            \"serving_size\": \"25g\",\n            \"energy\": {\n                \"per_serving\": {\"value\": 150, \"unit\": \"kcal\"}\n            },\n            \"macronutrients\": {\n                \"total_fat\": {\"per_serving\": {\"value\": 9, \"unit\": \"g\"}},\n                \"carbohydrates\": {\"per_serving\": {\"value\": 18, \"unit\": \"g\"}},\n                \"protein\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}}\n            },\n            \"micronutrients\": {\n                \"sodium\": {\"per_serving\": {\"value\": 50, \"unit\": \"mg\"}},\n                \"key_vitamins_minerals\": [\n                    {\"name\": \"Vitamin B12\", \"value\": 0.1, \"unit\": \"mcg\"}\n                ]\n            },\n            \"fiber\": {\n                \"total\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}},\n                \"soluble\": {\"per_serving\": {\"value\": 0.5, \"unit\": \"g\"}},\n                \"insoluble\": {\"per_serving\": {\"value\": 0.5, \"unit\": \"g\"}}\n            },\n            \"allergens\": [\n                \"Dairy\",\n                \"Soy\"\n            ],\n            \"nutrient_density_score\": {\n                \"value\": 20,\n                \"category\": \"Very Low\"\n            },\n            \"glycemic_index\": {\n                \"value\": 70,\n                \"category\": \"High\"\n            },\n            \"glycemic_load\": 10,\n            \"protein_quality\": {\n                \"score\": 0.5,\n                \"method\": \"PDCAAS/DIAAS\"\n            },\n            \"phytonutrients\": [\n                {\"name\": \"Antioxidants\", \"presence\": \"low\"}\n            ],\n            \"micronutrient_density\": {\n                \"per_100_calories\": [\n                    {\"nutrient\": \"Sodium\", \"value\": 33, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Vitamin B12\", \"value\": 0.1, \"unit\": \"mcg\"}\n                ],\n                \"per_100_grams\": [\n                    {\"nutrient\": \"Sodium\", \"value\": 50, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Vitamin B12\", \"value\": 0.1, \"unit\": \"mcg\"}\n                ]\n            },\n            \"satiety_index\": {\n                \"value\": 25,\n                \"category\": \"Low\"\n            },\n            \"environmental_impact\": {\n                \"water_usage\": {\"value\": 1000, \"unit\": \"L/kg\"},\n                \"carbon_footprint\": {\n                    \"value\": 3,\n                    \"unit\": \"kg CO2e/kg\",\n                    \"category\": \"Medium\"\n                },\n                \"land_use\": {\"value\": 0.1, \"unit\": \"m\u00b2/kg\"}\n            },\n            \"versatility_score\": {\n                \"value\": 25,\n                \"category\": \"Low\"\n            },\n            \"cost_nutrient_ratio\": {\n                \"value\": 15,\n                \"category\": \"Poor\"\n            },\n            \"nutritional_summary\": \"This chocolate snack is high in sugar and fat, and low in protein, vitamins, and minerals. It is also high in calories, so should be eaten in moderation.\"\n        },\n        {\n            \"product_name\": \"Khyaradon  (Part of Garden  Combo)\",\n            \"price_paid\": 502.00,\n            \"num_items\": 1,\n            \"estimated_quantity\": {\"value\": 1, \"unit\": \"kg\"},\n            \"serving_size\": \"100g\",\n            \"energy\": {\n                \"per_serving\": {\"value\": 40, \"unit\": \"kcal\"}\n            },\n            \"macronutrients\": {\n                \"total_fat\": {\"per_serving\": {\"value\": 0.2, \"unit\": \"g\"}},\n                \"carbohydrates\": {\"per_serving\": {\"value\": 8, \"unit\": \"g\"}},\n                \"protein\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}}\n            },\n            \"micronutrients\": {\n                \"sodium\": {\"per_serving\": {\"value\": 5, \"unit\": \"mg\"}},\n                \"key_vitamins_minerals\": [\n                    {\"name\": \"Vitamin C\", \"value\": 10, \"unit\": \"mg\"},\n                    {\"name\": \"Potassium\", \"value\": 200, \"unit\": \"mg\"}\n                ]\n            },\n            \"fiber\": {\n                \"total\": {\"per_serving\": {\"value\": 2, \"unit\": \"g\"}},\n                \"soluble\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}},\n                \"insoluble\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}}\n            },\n            \"allergens\": [],\n            \"nutrient_density_score\": {\n                \"value\": 75,\n                \"category\": \"High\"\n            },\n            \"glycemic_index\": {\n                \"value\": 20,\n                \"category\": \"Low\"\n            },\n            \"glycemic_load\": 2,\n            \"protein_quality\": {\n                \"score\": 0.8,\n                \"method\": \"PDCAAS/DIAAS\"\n            },\n            \"phytonutrients\": [\n                {\"name\": \"Vitamin C\", \"presence\": \"high\"},\n                {\"name\": \"Antioxidants\", \"presence\": \"high\"}\n            ],\n            \"micronutrient_density\": {\n                \"per_100_calories\": [\n                    {\"nutrient\": \"Vitamin C\", \"value\": 25, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Potassium\", \"value\": 500, \"unit\": \"mg\"}\n                ],\n                \"per_100_grams\": [\n                    {\"nutrient\": \"Vitamin C\", \"value\": 10, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Potassium\", \"value\": 200, \"unit\": \"mg\"}\n                ]\n            },\n            \"satiety_index\": {\n                \"value\": 50,\n                \"category\": \"Medium\"\n            },\n            \"environmental_impact\": {\n                \"water_usage\": {\"value\": 100, \"unit\": \"L/kg\"},\n                \"carbon_footprint\": {\n                    \"value\": 0.5,\n                    \"unit\": \"kg CO2e/kg\",\n                    \"category\": \"Low\"\n                },\n                \"land_use\": {\"value\": 0.05, \"unit\": \"m\u00b2/kg\"}\n            },\n            \"versatility_score\": {\n                \"value\": 75,\n                \"category\": \"High\"\n            },\n            \"cost_nutrient_ratio\": {\n                \"value\": 80,\n                \"category\": \"Excellent\"\n            },\n            \"nutritional_summary\": \"This cucumber is a good source of Vitamin C and Potassium, as well as fiber, making it a healthy and hydrating choice for a meal. It is a versatile ingredient and can be used in various salads and dishes.\"\n        },\n        {\n            \"product_name\": \"Banana with  Selenium Pot\",\n            \"price_paid\": 9.00,\n            \"num_items\": 1,\n            \"estimated_quantity\": {\"value\": 1, \"unit\": \"kg\"},\n            \"serving_size\": \"100g\",\n            \"energy\": {\n                \"per_serving\": {\"value\": 90, \"unit\": \"kcal\"}\n            },\n            \"macronutrients\": {\n                \"total_fat\": {\"per_serving\": {\"value\": 0.3, \"unit\": \"g\"}},\n                \"carbohydrates\": {\"per_serving\": {\"value\": 23, \"unit\": \"g\"}},\n                \"protein\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}}\n            },\n            \"micronutrients\": {\n                \"sodium\": {\"per_serving\": {\"value\": 1, \"unit\": \"mg\"}},\n                \"key_vitamins_minerals\": [\n                    {\"name\": \"Potassium\", \"value\": 400, \"unit\": \"mg\"},\n                    {\"name\": \"Vitamin B6\", \"value\": 0.4, \"unit\": \"mg\"}\n                ]\n            },\n            \"fiber\": {\n                \"total\": {\"per_serving\": {\"value\": 3, \"unit\": \"g\"}},\n                \"soluble\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}},\n                \"insoluble\": {\"per_serving\": {\"value\": 2, \"unit\": \"g\"}}\n            },\n            \"allergens\": [],\n            \"nutrient_density_score\": {\n                \"value\": 70,\n                \"category\": \"Good\"\n            },\n            \"glycemic_index\": {\n                \"value\": 50,\n                \"category\": \"Medium\"\n            },\n            \"glycemic_load\": 12,\n            \"protein_quality\": {\n                \"score\": 0.7,\n                \"method\": \"PDCAAS/DIAAS\"\n            },\n            \"phytonutrients\": [\n                {\"name\": \"Potassium\", \"presence\": \"high\"},\n                {\"name\": \"Antioxidants\", \"presence\": \"medium\"}\n            ],\n            \"micronutrient_density\": {\n                \"per_100_calories\": [\n                    {\"nutrient\": \"Potassium\", \"value\": 444, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Vitamin B6\", \"value\": 0.4, \"unit\": \"mg\"}\n                ],\n                \"per_100_grams\": [\n                    {\"nutrient\": \"Potassium\", \"value\": 400, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Vitamin B6\", \"value\": 0.4, \"unit\": \"mg\"}\n                ]\n            },\n            \"satiety_index\": {\n                \"value\": 50,\n                \"category\": \"Medium\"\n            },\n            \"environmental_impact\": {\n                \"water_usage\": {\"value\": 150, \"unit\": \"L/kg\"},\n                \"carbon_footprint\": {\n                    \"value\": 0.8,\n                    \"unit\": \"kg CO2e/kg\",\n                    \"category\": \"Low\"\n                },\n                \"land_use\": {\"value\": 0.05, \"unit\": \"m\u00b2/kg\"}\n            },\n            \"versatility_score\": {\n                \"value\": 75,\n                \"category\": \"High\"\n            },\n            \"cost_nutrient_ratio\": {\n                \"value\": 60,\n                \"category\": \"Good\"\n            },\n            \"nutritional_summary\": \"This banana is a good source of potassium and vitamin B6, as well as fiber. It is a quick and easy snack, and can be added to smoothies or baked goods.\"\n        },\n        {\n            \"product_name\": \"The Baker's Whole Wheat  Maida Bread  (Part of  No Namdi  Combo)\",\n            \"price_paid\": 65.00,\n            \"num_items\": 1,\n            \"estimated_quantity\": {\"value\": 400, \"unit\": \"g\"},\n            \"serving_size\": \"40g\",\n            \"energy\": {\n                \"per_serving\": {\"value\": 100, \"unit\": \"kcal\"}\n            },\n            \"macronutrients\": {\n                \"total_fat\": {\"per_serving\": {\"value\": 2, \"unit\": \"g\"}},\n                \"carbohydrates\": {\"per_serving\": {\"value\": 18, \"unit\": \"g\"}},\n                \"protein\": {\"per_serving\": {\"value\": 3, \"unit\": \"g\"}}\n            },\n            \"micronutrients\": {\n                \"sodium\": {\"per_serving\": {\"value\": 100, \"unit\": \"mg\"}},\n                \"key_vitamins_minerals\": [\n                    {\"name\": \"Iron\", \"value\": 1, \"unit\": \"mg\"}\n                ]\n            },\n            \"fiber\": {\n                \"total\": {\"per_serving\": {\"value\": 2, \"unit\": \"g\"}},\n                \"soluble\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}},\n                \"insoluble\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}}\n            },\n            \"allergens\": [\n                \"Gluten\"\n            ],\n            \"nutrient_density_score\": {\n                \"value\": 50,\n                \"category\": \"Low\"\n            },\n            \"glycemic_index\": {\n                \"value\": 70,\n                \"category\": \"High\"\n            },\n            \"glycemic_load\": 10,\n            \"protein_quality\": {\n                \"score\": 0.8,\n                \"method\": \"PDCAAS/DIAAS\"\n            },\n            \"phytonutrients\": [\n                {\"name\": \"Fiber\", \"presence\": \"medium\"},\n                {\"name\": \"Antioxidants\", \"presence\": \"low\"}\n            ],\n            \"micronutrient_density\": {\n                \"per_100_calories\": [\n                    {\"nutrient\": \"Iron\", \"value\": 1, \"unit\": \"mg\"}\n                ],\n                \"per_100_grams\": [\n                    {\"nutrient\": \"Iron\", \"value\": 2.5, \"unit\": \"mg\"}\n                ]\n            },\n            \"satiety_index\": {\n                \"value\": 30,\n                \"category\": \"Low\"\n            },\n            \"environmental_impact\": {\n                \"water_usage\": {\"value\": 1500, \"unit\": \"L/kg\"},\n                \"carbon_footprint\": {\n                    \"value\": 2,\n                    \"unit\": \"kg CO2e/kg\",\n                    \"category\": \"Low\"\n                },\n                \"land_use\": {\"value\": 0.2, \"unit\": \"m\u00b2/kg\"}\n            },\n            \"versatility_score\": {\n                \"value\": 75,\n                \"category\": \"High\"\n            },\n            \"cost_nutrient_ratio\": {\n                \"value\": 50,\n                \"category\": \"Fair\"\n            },\n            \"nutritional_summary\": \"This whole wheat bread is a good source of fiber and protein. It is also a good source of iron. However, it is high in carbohydrates and may contribute to a rapid increase in blood sugar levels.\"\n        },\n        {\n            \"product_name\": \"Onion (Ullilagadda)\",\n            \"price_paid\": 59.00,\n            \"num_items\": 1,\n            \"estimated_quantity\": {\"value\": 1, \"unit\": \"kg\"},\n            \"serving_size\": \"100g\",\n            \"energy\": {\n                \"per_serving\": {\"value\": 40, \"unit\": \"kcal\"}\n            },\n            \"macronutrients\": {\n                \"total_fat\": {\"per_serving\": {\"value\": 0.1, \"unit\": \"g\"}},\n                \"carbohydrates\": {\"per_serving\": {\"value\": 9, \"unit\": \"g\"}},\n                \"protein\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}}\n            },\n            \"micronutrients\": {\n                \"sodium\": {\"per_serving\": {\"value\": 5, \"unit\": \"mg\"}},\n                \"key_vitamins_minerals\": [\n                    {\"name\": \"Vitamin C\", \"value\": 10, \"unit\": \"mg\"},\n                    {\"name\": \"Potassium\", \"value\": 250, \"unit\": \"mg\"}\n                ]\n            },\n            \"fiber\": {\n                \"total\": {\"per_serving\": {\"value\": 2, \"unit\": \"g\"}},\n                \"soluble\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}},\n                \"insoluble\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}}\n            },\n            \"allergens\": [],\n            \"nutrient_density_score\": {\n                \"value\": 70,\n                \"category\": \"Good\"\n            },\n            \"glycemic_index\": {\n                \"value\": 40,\n                \"category\": \"Low\"\n            },\n            \"glycemic_load\": 4,\n            \"protein_quality\": {\n                \"score\": 0.7,\n                \"method\": \"PDCAAS/DIAAS\"\n            },\n            \"phytonutrients\": [\n                {\"name\": \"Vitamin C\", \"presence\": \"high\"},\n                {\"name\": \"Antioxidants\", \"presence\": \"medium\"}\n            ],\n            \"micronutrient_density\": {\n                \"per_100_calories\": [\n                    {\"nutrient\": \"Vitamin C\", \"value\": 25, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Potassium\", \"value\": 625, \"unit\": \"mg\"}\n                ],\n                \"per_100_grams\": [\n                    {\"nutrient\": \"Vitamin C\", \"value\": 10, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Potassium\", \"value\": 250, \"unit\": \"mg\"}\n                ]\n            },\n            \"satiety_index\": {\n                \"value\": 50,\n                \"category\": \"Medium\"\n            },\n            \"environmental_impact\": {\n                \"water_usage\": {\"value\": 100, \"unit\": \"L/kg\"},\n                \"carbon_footprint\": {\n                    \"value\": 0.5,\n                    \"unit\": \"kg CO2e/kg\",\n                    \"category\": \"Low\"\n                },\n                \"land_use\": {\"value\": 0.05, \"unit\": \"m\u00b2/kg\"}\n            },\n            \"versatility_score\": {\n                \"value\": 75,\n                \"category\": \"High\"\n            },\n            \"cost_nutrient_ratio\": {\n                \"value\": 70,\n                \"category\": \"Good\"\n            },\n            \"nutritional_summary\": \"This onion is a good source of vitamin C, potassium, and fiber, and can be added to various dishes for flavor and nutritional value.\"\n        },\n        {\n            \"product_name\": \"Coccinia (Part of  Garden  Combo)\",\n            \"price_paid\": 46.00,\n            \"num_items\": 2,\n            \"estimated_quantity\": {\"value\": 1, \"unit\": \"kg\"},\n            \"serving_size\": \"100g\",\n            \"energy\": {\n                \"per_serving\": {\"value\": 30, \"unit\": \"kcal\"}\n            },\n            \"macronutrients\": {\n                \"total_fat\": {\"per_serving\": {\"value\": 0.1, \"unit\": \"g\"}},\n                \"carbohydrates\": {\"per_serving\": {\"value\": 7, \"unit\": \"g\"}},\n                \"protein\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}}\n            },\n            \"micronutrients\": {\n                \"sodium\": {\"per_serving\": {\"value\": 5, \"unit\": \"mg\"}},\n                \"key_vitamins_minerals\": [\n                    {\"name\": \"Vitamin C\", \"value\": 15, \"unit\": \"mg\"},\n                    {\"name\": \"Potassium\", \"value\": 200, \"unit\": \"mg\"}\n                ]\n            },\n            \"fiber\": {\n                \"total\": {\"per_serving\": {\"value\": 2, \"unit\": \"g\"}},\n                \"soluble\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}},\n                \"insoluble\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}}\n            },\n            \"allergens\": [],\n            \"nutrient_density_score\": {\n                \"value\": 75,\n                \"category\": \"High\"\n            },\n            \"glycemic_index\": {\n                \"value\": 25,\n                \"category\": \"Low\"\n            },\n            \"glycemic_load\": 2,\n            \"protein_quality\": {\n                \"score\": 0.7,\n                \"method\": \"PDCAAS/DIAAS\"\n            },\n            \"phytonutrients\": [\n                {\"name\": \"Vitamin C\", \"presence\": \"high\"},\n                {\"name\": \"Antioxidants\", \"presence\": \"medium\"}\n            ],\n            \"micronutrient_density\": {\n                \"per_100_calories\": [\n                    {\"nutrient\": \"Vitamin C\", \"value\": 50, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Potassium\", \"value\": 666, \"unit\": \"mg\"}\n                ],\n                \"per_100_grams\": [\n                    {\"nutrient\": \"Vitamin C\", \"value\": 15, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Potassium\", \"value\": 200, \"unit\": \"mg\"}\n                ]\n            },\n            \"satiety_index\": {\n                \"value\": 50,\n                \"category\": \"Medium\"\n            },\n            \"environmental_impact\": {\n                \"water_usage\": {\"value\": 100, \"unit\": \"L/kg\"},\n                \"carbon_footprint\": {\n                    \"value\": 0.5,\n                    \"unit\": \"kg CO2e/kg\",\n                    \"category\": \"Low\"\n                },\n                \"land_use\": {\"value\": 0.05, \"unit\": \"m\u00b2/kg\"}\n            },\n            \"versatility_score\": {\n                \"value\": 75,\n                \"category\": \"High\"\n            },\n            \"cost_nutrient_ratio\": {\n                \"value\": 70,\n                \"category\": \"Good\"\n            },\n            \"nutritional_summary\": \"This ivy gourd is a good source of vitamin C, potassium, and fiber, and can be added to various dishes for flavor and nutritional value.\"\n        },\n        {\n            \"product_name\": \"Garden Lady's Finger\",\n            \"price_paid\": 36.00,\n            \"num_items\": 1,\n            \"estimated_quantity\": {\"value\": 500, \"unit\": \"g\"},\n            \"serving_size\": \"100g\",\n            \"energy\": {\n                \"per_serving\": {\"value\": 30, \"unit\": \"kcal\"}\n            },\n            \"macronutrients\": {\n                \"total_fat\": {\"per_serving\": {\"value\": 0.1, \"unit\": \"g\"}},\n                \"carbohydrates\": {\"per_serving\": {\"value\": 7, \"unit\": \"g\"}},\n                \"protein\": {\"per_serving\": {\"value\": 2, \"unit\": \"g\"}}\n            },\n            \"micronutrients\": {\n                \"sodium\": {\"per_serving\": {\"value\": 5, \"unit\": \"mg\"}},\n                \"key_vitamins_minerals\": [\n                    {\"name\": \"Vitamin C\", \"value\": 15, \"unit\": \"mg\"},\n                    {\"name\": \"Potassium\", \"value\": 250, \"unit\": \"mg\"}\n                ]\n            },\n            \"fiber\": {\n                \"total\": {\"per_serving\": {\"value\": 3, \"unit\": \"g\"}},\n                \"soluble\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}},\n                \"insoluble\": {\"per_serving\": {\"value\": 2, \"unit\": \"g\"}}\n            },\n            \"allergens\": [],\n            \"nutrient_density_score\": {\n                \"value\": 75,\n                \"category\": \"High\"\n            },\n            \"glycemic_index\": {\n                \"value\": 25,\n                \"category\": \"Low\"\n            },\n            \"glycemic_load\": 2,\n            \"protein_quality\": {\n                \"score\": 0.8,\n                \"method\": \"PDCAAS/DIAAS\"\n            },\n            \"phytonutrients\": [\n                {\"name\": \"Vitamin C\", \"presence\": \"high\"},\n                {\"name\": \"Antioxidants\", \"presence\": \"medium\"}\n            ],\n            \"micronutrient_density\": {\n                \"per_100_calories\": [\n                    {\"nutrient\": \"Vitamin C\", \"value\": 50, \"unit\": \"mg\"},\n                    {\"nutrient",
+    "{\n    \"invoice_date\": \"2024-06-25\",\n    \"edible_products\": [\n        {\n            \"product_name\": \"Fortune Soya Soya Chunks\",\n            \"price_paid\": 165.00,\n            \"num_items\": 1,\n            \"estimated_quantity\": {\"value\": 200, \"unit\": \"g\"},\n            \"serving_size\": \"50g\",\n            \"energy\": {\n                \"per_serving\": {\"value\": 120, \"unit\": \"kcal\"}\n            },\n            \"macronutrients\": {\n                \"total_fat\": {\"per_serving\": {\"value\": 8, \"unit\": \"g\"}},\n                \"carbohydrates\": {\"per_serving\": {\"value\": 10, \"unit\": \"g\"}},\n                \"protein\": {\"per_serving\": {\"value\": 12, \"unit\": \"g\"}}\n            },\n            \"micronutrients\": {\n                \"sodium\": {\"per_serving\": {\"value\": 250, \"unit\": \"mg\"}},\n                \"key_vitamins_minerals\": [\n                    {\"name\": \"Iron\", \"value\": 3, \"unit\": \"mg\"},\n                    {\"name\": \"Calcium\", \"value\": 100, \"unit\": \"mg\"}\n                ]\n            },\n            \"fiber\": {\n                \"total\": {\"per_serving\": {\"value\": 3, \"unit\": \"g\"}},\n                \"soluble\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}},\n                \"insoluble\": {\"per_serving\": {\"value\": 2, \"unit\": \"g\"}}\n            },\n            \"allergens\": [\"Soy\"],\n            \"nutrient_density_score\": {\n                \"value\": 60,\n                \"category\": \"Medium\"\n            },\n            \"glycemic_index\": {\n                \"value\": 30,\n                \"category\": \"Low\"\n            },\n            \"glycemic_load\": 3,\n            \"protein_quality\": {\n                \"score\": 0.9,\n                \"method\": \"PDCAAS\"\n            },\n            \"phytonutrients\": [\n                {\"name\": \"Isoflavones\", \"presence\": \"high\"}\n            ],\n            \"micronutrient_density\": {\n                \"per_100_calories\": [\n                    {\"nutrient\": \"Iron\", \"value\": 2.5, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Calcium\", \"value\": 83.3, \"unit\": \"mg\"}\n                ],\n                \"per_100_grams\": [\n                    {\"nutrient\": \"Iron\", \"value\": 1.5, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Calcium\", \"value\": 50, \"unit\": \"mg\"}\n                ]\n            },\n            \"satiety_index\": {\n                \"value\": 60,\n                \"category\": \"Medium\"\n            },\n            \"environmental_impact\": {\n                \"water_usage\": {\"value\": 1500, \"unit\": \"L/kg\"},\n                \"carbon_footprint\": {\n                    \"value\": 2,\n                    \"unit\": \"kg CO2e/kg\",\n                    \"category\": \"Low\"\n                },\n                \"land_use\": {\"value\": 0.5, \"unit\": \"m\u00b2/kg\"}\n            },\n            \"versatility_score\": {\n                \"value\": 70,\n                \"category\": \"High\"\n            },\n            \"cost_nutrient_ratio\": {\n                \"value\": 75,\n                \"category\": \"Good\"\n            },\n            \"nutritional_summary\": \"Fortune Soya Chunks are a good source of protein, iron, and calcium. They are also relatively low in calories and fat, making them a healthy and versatile option for vegetarians and vegans.\"\n        },\n        {\n            \"product_name\": \"dr GOOD EGGS Premium Fresh 6 Pc\",\n            \"price_paid\": 90.00,\n            \"num_items\": 2,\n            \"estimated_quantity\": {\"value\": 6, \"unit\": \"eggs\"},\n            \"serving_size\": \"1 egg\",\n            \"energy\": {\n                \"per_serving\": {\"value\": 78, \"unit\": \"kcal\"}\n            },\n            \"macronutrients\": {\n                \"total_fat\": {\"per_serving\": {\"value\": 5.3, \"unit\": \"g\"}},\n                \"carbohydrates\": {\"per_serving\": {\"value\": 0.6, \"unit\": \"g\"}},\n                \"protein\": {\"per_serving\": {\"value\": 6.3, \"unit\": \"g\"}}\n            },\n            \"micronutrients\": {\n                \"sodium\": {\"per_serving\": {\"value\": 60, \"unit\": \"mg\"}},\n                \"key_vitamins_minerals\": [\n                    {\"name\": \"Vitamin D\", \"value\": 44, \"unit\": \"IU\"},\n                    {\"name\": \"Vitamin B12\", \"value\": 0.6, \"unit\": \"\u00b5g\"},\n                    {\"name\": \"Choline\", \"value\": 147, \"unit\": \"mg\"}\n                ]\n            },\n            \"fiber\": {\n                \"total\": {\"per_serving\": {\"value\": 0, \"unit\": \"g\"}},\n                \"soluble\": {\"per_serving\": {\"value\": 0, \"unit\": \"g\"}},\n                \"insoluble\": {\"per_serving\": {\"value\": 0, \"unit\": \"g\"}}\n            },\n            \"allergens\": [\"Eggs\"],\n            \"nutrient_density_score\": {\n                \"value\": 80,\n                \"category\": \"High\"\n            },\n            \"glycemic_index\": {\n                \"value\": 45,\n                \"category\": \"Low\"\n            },\n            \"glycemic_load\": 0,\n            \"protein_quality\": {\n                \"score\": 1,\n                \"method\": \"PDCAAS\"\n            },\n            \"phytonutrients\": [],\n            \"micronutrient_density\": {\n                \"per_100_calories\": [\n                    {\"nutrient\": \"Vitamin D\", \"value\": 56.4, \"unit\": \"IU\"},\n                    {\"nutrient\": \"Vitamin B12\", \"value\": 0.8, \"unit\": \"\u00b5g\"},\n                    {\"nutrient\": \"Choline\", \"value\": 188.5, \"unit\": \"mg\"}\n                ],\n                \"per_100_grams\": [\n                    {\"nutrient\": \"Vitamin D\", \"value\": 68.7, \"unit\": \"IU\"},\n                    {\"nutrient\": \"Vitamin B12\", \"value\": 0.8, \"unit\": \"\u00b5g\"},\n                    {\"nutrient\": \"Choline\", \"value\": 188.5, \"unit\": \"mg\"}\n                ]\n            },\n            \"satiety_index\": {\n                \"value\": 70,\n                \"category\": \"High\"\n            },\n            \"environmental_impact\": {\n                \"water_usage\": {\"value\": 2000, \"unit\": \"L/kg\"},\n                \"carbon_footprint\": {\n                    \"value\": 4,\n                    \"unit\": \"kg CO2e/kg\",\n                    \"category\": \"Medium\"\n                },\n                \"land_use\": {\"value\": 1.2, \"unit\": \"m\u00b2/kg\"}\n            },\n            \"versatility_score\": {\n                \"value\": 80,\n                \"category\": \"High\"\n            },\n            \"cost_nutrient_ratio\": {\n                \"value\": 85,\n                \"category\": \"Excellent\"\n            },\n            \"nutritional_summary\": \"Eggs are a rich source of protein, choline, and various vitamins and minerals, including vitamin D and B12. They are also a low-calorie food with a high satiety index, making them a healthy and satisfying choice.\"\n        },\n        {\n            \"product_name\": \"Supreme Harvest Toor Dal\",\n            \"price_paid\": 217.00,\n            \"num_items\": 1,\n            \"estimated_quantity\": {\"value\": 500, \"unit\": \"g\"},\n            \"serving_size\": \"1/2 cup (100g)\",\n            \"energy\": {\n                \"per_serving\": {\"value\": 350, \"unit\": \"kcal\"}\n            },\n            \"macronutrients\": {\n                \"total_fat\": {\"per_serving\": {\"value\": 1, \"unit\": \"g\"}},\n                \"carbohydrates\": {\"per_serving\": {\"value\": 55, \"unit\": \"g\"}},\n                \"protein\": {\"per_serving\": {\"value\": 22, \"unit\": \"g\"}}\n            },\n            \"micronutrients\": {\n                \"sodium\": {\"per_serving\": {\"value\": 2, \"unit\": \"mg\"}},\n                \"key_vitamins_minerals\": [\n                    {\"name\": \"Iron\", \"value\": 3, \"unit\": \"mg\"},\n                    {\"name\": \"Folate\", \"value\": 100, \"unit\": \"\u00b5g\"},\n                    {\"name\": \"Magnesium\", \"value\": 80, \"unit\": \"mg\"},\n                    {\"name\": \"Potassium\", \"value\": 700, \"unit\": \"mg\"}\n                ]\n            },\n            \"fiber\": {\n                \"total\": {\"per_serving\": {\"value\": 15, \"unit\": \"g\"}},\n                \"soluble\": {\"per_serving\": {\"value\": 5, \"unit\": \"g\"}},\n                \"insoluble\": {\"per_serving\": {\"value\": 10, \"unit\": \"g\"}}\n            },\n            \"allergens\": [\"Legumes\"],\n            \"nutrient_density_score\": {\n                \"value\": 90,\n                \"category\": \"High\"\n            },\n            \"glycemic_index\": {\n                \"value\": 25,\n                \"category\": \"Low\"\n            },\n            \"glycemic_load\": 5,\n            \"protein_quality\": {\n                \"score\": 0.8,\n                \"method\": \"PDCAAS\"\n            },\n            \"phytonutrients\": [\n                {\"name\": \"Saponins\", \"presence\": \"high\"},\n                {\"name\": \"Phytoestrogens\", \"presence\": \"medium\"}\n            ],\n            \"micronutrient_density\": {\n                \"per_100_calories\": [\n                    {\"nutrient\": \"Iron\", \"value\": 0.86, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Folate\", \"value\": 28.6, \"unit\": \"\u00b5g\"},\n                    {\"nutrient\": \"Magnesium\", \"value\": 22.9, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Potassium\", \"value\": 200, \"unit\": \"mg\"}\n                ],\n                \"per_100_grams\": [\n                    {\"nutrient\": \"Iron\", \"value\": 0.6, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Folate\", \"value\": 20, \"unit\": \"\u00b5g\"},\n                    {\"nutrient\": \"Magnesium\", \"value\": 16, \"unit\": \"mg\"},\n                    {\"nutrient\": \"Potassium\", \"value\": 140, \"unit\": \"mg\"}\n                ]\n            },\n            \"satiety_index\": {\n                \"value\": 80,\n                \"category\": \"High\"\n            },\n            \"environmental_impact\": {\n                \"water_usage\": {\"value\": 1000, \"unit\": \"L/kg\"},\n                \"carbon_footprint\": {\n                    \"value\": 1,\n                    \"unit\": \"kg CO2e/kg\",\n                    \"category\": \"Low\"\n                },\n                \"land_use\": {\"value\": 0.3, \"unit\": \"m\u00b2/kg\"}\n            },\n            \"versatility_score\": {\n                \"value\": 60,\n                \"category\": \"Medium\"\n            },\n            \"cost_nutrient_ratio\": {\n                \"value\": 90,\n                \"category\": \"Excellent\"\n            },\n            \"nutritional_summary\": \"Toor dal, also known as split pigeon peas, is a nutrient-rich legume packed with protein, fiber, iron, folate, magnesium, and potassium. It is a low-glycemic food that helps promote satiety and supports digestive health.\"\n        }\n    ]\n}\n\nNutrient Density Distribution:\n\n- Very Low: 0%\n- Low: 0%\n- Medium: 16.7%\n- High: 83.3% \n"
+  ]
+}

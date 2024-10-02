@@ -25,6 +25,7 @@ def convert_pdf_to_images(pdf_content):
 
     return image_bytes_list
 
+
 # Placeholder function to process images with Gemini
 def process_images_with_gemini(images):
     # TODO: Implement actual Gemini API call

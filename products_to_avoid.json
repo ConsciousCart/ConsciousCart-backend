@@ -1,0 +1,24 @@
+{
+  "products_to_avoid": [
+    {
+      "product_name": "Glucon-D Instant Health Drink",
+      "rationale": "High sugar, low nutrients, high glycemic index"
+    },
+    {
+      "product_name": "Uncle Chips Spicy Treat Sampaan",
+      "rationale": "High fat, sodium, low protein, poor nutrient density"
+    },
+    {
+      "product_name": "Nestle Munch Choco",
+      "rationale": "High sugar, fat, low protein, poor nutrient density"
+    },
+    {
+      "product_name": "Goodrick Spicy Treats",
+      "rationale": "High calories, fat, sodium, low nutritional value"
+    },
+    {
+      "product_name": "The Baker's Whole Wheat Maida Bread",
+      "rationale": "High carbs, may spike blood sugar, lower fiber than whole grain"
+    }
+  ]
+}

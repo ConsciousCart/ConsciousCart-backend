@@ -1,10 +1,9 @@
-from fastapi import FastAPI, UploadFile
+from fastapi import FastAPI, UploadFile, HTTPException
 from google.cloud import storage
 import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import firestore, db
 import json
-from pdf2image import convert_from_bytes
 from utils import convert_pdf_to_images, process_images_with_gemini
 
 app = FastAPI()
@@ -20,7 +19,7 @@ cred = credentials.Certificate("./firebase.json")
 firebase_admin.initialize_app(
     cred, {"databaseURL": "https://consciouscart-16d52-default-rtdb.firebaseio.com/"}
 )
-
+db = firestore.client()
 
 @app.get("/")
 async def root():
@@ -28,18 +27,28 @@ async def root():
 
 
 @app.get("/api/file")
-async def get_file():
-    blobs = bucket.list_blobs()
-    return [blob.name for blob in blobs]
+async def list_files():
+    try:
+        # Assuming 'bucket' is already initialized somewhere in your code
+        blobs = bucket.list_blobs()
+        files = []
+        for blob in blobs:
+            files.append({
+                "name": blob.name,
+                "created": blob.time_created.isoformat() if blob.time_created else None
+            })
+        return {"files": files}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"An error occurred: {str(e)}")
 
 
-@app.post("/api/upload-file")
-async def upload_file(file: UploadFile):
-    blob = bucket.blob(file.filename)
+
+@app.post("/api/upload-file/{user_email}")
+async def upload_file(file: UploadFile, user_email: str):
+    filename = f"{file.filename}_{user_email}"
+    blob = bucket.blob(filename)
     blob.upload_from_file(file.file)
-    # and updates in the firestore also
-    return {"message": "File uploaded successfully"}
-
+    return {"message": "File uploaded successfully", "filename": filename}
 
 @app.post("/api/create-user/{user_name}")
 async def add_user(user_name: str):
