@@ -8,3 +8,4 @@ protobuf==5.28.2
 google-cloud-storage==2.18.2
 python-multipart==0.0.12
 uvicorn==0.31.0
+python-dotenv==1.0.1
