@@ -41,12 +41,8 @@ if not service_account_info:
     raise ValueError("SERVICE_ACCOUNT_JSON environment variable is not set")
 
 # Parse the JSON string
-try:
-    service_account_info = json.loads(service_account_info)
-except json.JSONDecodeError as e:
-    print(f"Error decoding SERVICE_ACCOUNT_JSON: {e}")
-    print(f"SERVICE_ACCOUNT_JSON value: {service_account_info[:100]}...")  # Print first 100 chars
-    raise
+service_account_info = json.loads(service_account_info)
+
 
 credentials = service_account.Credentials.from_service_account_info(service_account_info)
 # Initialize storage client
