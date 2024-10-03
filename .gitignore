@@ -10,3 +10,4 @@ htmlcov/
 .tox/
 docs/_build/
 service-account.json
+firebase.json

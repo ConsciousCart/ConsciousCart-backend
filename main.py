@@ -5,11 +5,14 @@ from firebase_admin import credentials
 from firebase_admin import firestore, db
 from fastapi.middleware.cors import CORSMiddleware
 import json
+from dotenv import load_dotenv
 
 import os
 import json
 from google.oauth2 import service_account
 
+# Load environment variables from .env file
+load_dotenv()
 
 
 app = FastAPI()
@@ -35,16 +38,17 @@ app.add_middleware(
 bucket_name = "invoices-from-user"
 service_account_info = json.loads(os.getenv('SERVICE_ACCOUNT_JSON'))
 
+
 credentials = service_account.Credentials.from_service_account_info(service_account_info)
 # Initialize storage client
 storage_client = storage.Client(credentials=credentials)
 bucket = storage_client.get_bucket(bucket_name)
 # initialise firebase
-cred = credentials.Certificate("./firebase.json")
-firebase_admin.initialize_app(
-    cred, {"databaseURL": "https://consciouscart-16d52-default-rtdb.firebaseio.com/"}
-)
+firebase_config_json = os.getenv('FIREBASE_JSON')
+firebase_config = json.loads(firebase_config_json)
 
+# Initialize Firebase app with config that includes the databaseURL
+firebase_admin.initialize_app(options=firebase_config)
 
 
 
