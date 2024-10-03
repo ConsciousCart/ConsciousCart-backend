@@ -6,6 +6,12 @@ from firebase_admin import firestore, db
 from fastapi.middleware.cors import CORSMiddleware
 import json
 
+import os
+import json
+from google.oauth2 import service_account
+
+
+
 app = FastAPI()
 
 origins = [
@@ -27,10 +33,11 @@ app.add_middleware(
 
 
 bucket_name = "invoices-from-user"
-key_file_path = "./service-account.json"
+service_account_info = json.loads(os.getenv('SERVICE_ACCOUNT_JSON'))
 
+credentials = service_account.Credentials.from_service_account_info(service_account_info)
 # Initialize storage client
-storage_client = storage.Client.from_service_account_json(key_file_path)
+storage_client = storage.Client(credentials=credentials)
 bucket = storage_client.get_bucket(bucket_name)
 # initialise firebase
 cred = credentials.Certificate("./firebase.json")
