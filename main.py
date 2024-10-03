@@ -36,8 +36,17 @@ app.add_middleware(
 
 
 bucket_name = "invoices-from-user"
-service_account_info = json.loads(os.getenv('SERVICE_ACCOUNT_JSON'))
+service_account_info = os.getenv('SERVICE_ACCOUNT_JSON')
+if not service_account_info:
+    raise ValueError("SERVICE_ACCOUNT_JSON environment variable is not set")
 
+# Parse the JSON string
+try:
+    service_account_info = json.loads(service_account_info)
+except json.JSONDecodeError as e:
+    print(f"Error decoding SERVICE_ACCOUNT_JSON: {e}")
+    print(f"SERVICE_ACCOUNT_JSON value: {service_account_info[:100]}...")  # Print first 100 chars
+    raise
 
 credentials = service_account.Credentials.from_service_account_info(service_account_info)
 # Initialize storage client
